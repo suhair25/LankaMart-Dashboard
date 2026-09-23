@@ -1,0 +1,722 @@
+order_id,order_date,province,city,sales_channel,customer_segment,product_category,product_name,units,unit_price_lkr,discount_pct,revenue_lkr,cost_lkr,profit_lkr,payment_method,delivery_days,customer_rating,returned,promotion
+LM26-0001,2026-04-28,Eastern,Batticaloa,Store,Corporate,Fashion,Casual Shirt,3,4990,0.25,11228,6750,4478,Debit Card,0,,No,App Exclusive
+LM26-0002,2026-04-05,Northern,Kilinochchi,Store,Small Business,Electronics,Bluetooth Speaker,1,9990,0.15,8492,6448,2044,Debit Card,0,5,No,New Year
+LM26-0003,2026-04-15,Central,Matale,Online,Corporate,Home,Table Lamp,1,5990,0.1,5391,3150,2241,Bank Transfer,9,3,No,App Exclusive
+LM26-0004,2026-05-14,Uva,Badulla,Online,Small Business,Home,Air Fryer,3,24990,0.05,71222,53100,18122,Credit Card,6,4,No,App Exclusive
+LM26-0005,2026-03-10,Central,Nuwara Eliya,Mobile App,Consumer,Electronics,Smart Watch,1,18990,0,18990,12688,6302,Credit Card,3,3,Yes,None
+LM26-0006,2026-04-17,Uva,Monaragala,Store,Consumer,Home,Air Fryer,1,24990,0.1,22491,17700,4791,Cash on Delivery,0,5,No,Weekend Deal
+LM26-0007,2026-04-28,Southern,Hambantota,Online,Small Business,Electronics,Bluetooth Speaker,3,9990,0,29970,19344,10626,Cash on Delivery,6,4,No,None
+LM26-0008,2026-02-01,Western,Colombo,Online,Corporate,Fashion,Running Shoes,3,10990,0.25,24728,18300,6428,Cash on Delivery,3,5,No,Weekend Deal
+LM26-0009,2026-01-18,Southern,Galle,Online,Small Business,Fashion,Running Shoes,4,10990,0.05,41762,24400,17362,Digital Wallet,3,4,No,New Year
+LM26-0010,2026-03-23,Southern,Hambantota,Mobile App,Consumer,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Debit Card,6,4,No,New Year
+LM26-0011,2026-05-16,Southern,Matara,Mobile App,Consumer,Beauty,Hair Dryer,4,7990,0.2,25568,18800,6768,Credit Card,4,4,No,New Year
+LM26-0012,2026-03-27,Western,Colombo,Store,Corporate,Sports,Dumbbell Set,4,15990,0.1,57564,39200,18364,Credit Card,0,5,No,Weekend Deal
+LM26-0013,2026-04-22,Uva,Monaragala,Store,Consumer,Beauty,Skin Care Set,4,8990,0,35960,17600,18360,Debit Card,0,5,No,None
+LM26-0014,2026-05-28,Sabaragamuwa,Kegalle,Store,Corporate,Home,Air Fryer,4,24990,0.15000000000000002,84966,70800,14166,Digital Wallet,0,5,No,New Year
+LM26-0015,2026-03-03,Sabaragamuwa,Ratnapura,Store,Corporate,Sports,Yoga Mat,1,4490,0.25,3368,2100,1268,Credit Card,0,5,No,Weekend Deal
+LM26-0016,2026-06-20,Sabaragamuwa,Ratnapura,Mobile App,Consumer,Fashion,Backpack,2,7490,0.05,14231,7600,6631,Bank Transfer,5,3,No,Weekend Deal
+LM26-0017,2026-05-24,Western,Colombo,Mobile App,Small Business,Sports,Cricket Bat,4,12990,0.05,49362,30400,18962,Digital Wallet,3,4,No,None
+LM26-0018,2026-05-13,Western,Negombo,Mobile App,Small Business,Fashion,Backpack,1,7490,0.15,6367,3800,2567,Debit Card,5,,No,New Year
+LM26-0019,2026-06-20,North Central,Anuradhapura,Online,Small Business,Electronics,Smart Watch,2,18990,0.15,32283,25376,6907,Credit Card,4,4,No,Weekend Deal
+LM26-0020,2026-04-01,Sabaragamuwa,Kegalle,Store,Consumer,Home,Air Fryer,2,24990,0.05,47481,35400,12081,Bank Transfer,0,5,No,None
+LM26-0021,2026-04-01,Southern,Galle,Online,Small Business,Fashion,Backpack,1,7490,0.2,5992,3800,2192,Bank Transfer,7,3,No,App Exclusive
+LM26-0022,2026-04-04,North Western,Kurunegala,Online,Consumer,Sports,Dumbbell Set,2,15990,0.05,30381,19600,10781,Credit Card,2,5,No,New Year
+LM26-0023,2026-04-24,North Central,Anuradhapura,Store,Consumer,Sports,Yoga Mat,1,4490,0,4490,2100,2390,Bank Transfer,0,5,No,None
+LM26-0024,2026-01-16,Sabaragamuwa,Ratnapura,Store,Consumer,Electronics,Bluetooth Speaker,2,9990,0.05,18981,12896,6085,Cash on Delivery,0,5,No,Weekend Deal
+LM26-0025,2026-01-02,Northern,Kilinochchi,Mobile App,Small Business,Beauty,Perfume,2,11990,0.2,19184,13800,5384,Cash on Delivery,2,4,No,New Year
+LM26-0026,2026-03-07,Western,Colombo,Mobile App,Consumer,Home,Rice Cooker,4,13990,0.1,50364,37600,12764,Cash on Delivery,4,4,No,New Year
+LM26-0027,2026-01-13,Western,Negombo,Store,Small Business,Fashion,Casual Shirt,4,4990,0,19960,9000,10960,Debit Card,0,5,No,None
+LM26-0028,2026-04-18,North Central,Polonnaruwa,Online,Consumer,Fashion,Backpack,3,7490,0.15,19100,11400,7700,Credit Card,9,4,No,Weekend Deal
+LM26-0029,2026-02-23,Northern,Jaffna,Mobile App,Consumer,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Debit Card,8,3,No,New Year
+LM26-0030,2026-04-16,Eastern,Trincomalee,Store,Consumer,Home,Table Lamp,4,5990,0.2,19168,12600,6568,Debit Card,0,4,No,App Exclusive
+LM26-0031,2026-02-19,Central,Kandy,Store,Consumer,Sports,Yoga Mat,4,4490,0,17960,8400,9560,Debit Card,0,5,No,None
+LM26-0032,2026-05-04,Northern,Kilinochchi,Mobile App,Corporate,Beauty,Hair Dryer,3,7990,0.1,21573,14100,7473,Bank Transfer,6,4,No,App Exclusive
+LM26-0033,2026-03-25,Southern,Matara,Store,Consumer,Beauty,Hair Dryer,3,7990,0,23970,14100,9870,Debit Card,0,5,No,None
+LM26-0034,2026-01-12,Southern,Galle,Store,Small Business,Beauty,Skin Care Set,1,8990,0.15,7642,4400,3242,Digital Wallet,0,5,No,App Exclusive
+LM26-0035,2026-02-24,Eastern,Trincomalee,Store,Consumer,Sports,Yoga Mat,1,4490,0.2,3592,2100,1492,Bank Transfer,0,5,No,New Year
+LM26-0036,2026-02-26,Western,Kalutara,Mobile App,Corporate,Beauty,Hair Dryer,4,7990,0.2,25568,18800,6768,Cash on Delivery,7,4,No,New Year
+LM26-0037,2026-05-23,Western,Colombo,Mobile App,Consumer,Home,Table Lamp,2,5990,0.1,10782,6300,4482,Debit Card,7,3,No,New Year
+LM26-0038,2026-05-17,Southern,Matara,Online,Consumer,Sports,Yoga Mat,1,4490,0.1,4041,2100,1941,Cash on Delivery,8,2,Yes,Weekend Deal
+LM26-0039,2026-01-12,Northern,Jaffna,Mobile App,Small Business,Home,Rice Cooker,4,13990,0.15,47566,37600,9966,Bank Transfer,5,5,No,New Year
+LM26-0040,2026-05-15,Central,Kandy,Store,Consumer,Beauty,Hair Dryer,3,7990,0.1,21573,14100,7473,Credit Card,0,5,No,Weekend Deal
+LM26-0041,2026-01-26,Western,Negombo,Mobile App,Consumer,Sports,Yoga Mat,2,4490,0,8980,4200,4780,Credit Card,4,4,No,None
+LM26-0042,2026-06-22,Western,Negombo,Store,Consumer,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Bank Transfer,0,5,No,Weekend Deal
+LM26-0043,2026-01-14,Sabaragamuwa,Kegalle,Mobile App,Small Business,Beauty,Hair Dryer,2,7990,0.1,14382,9400,4982,Credit Card,7,4,No,Weekend Deal
+LM26-0044,2026-06-11,Western,Colombo,Online,Corporate,Home,Rice Cooker,1,13990,0.25,10493,9400,1093,Cash on Delivery,1,5,No,Weekend Deal
+LM26-0045,2026-05-09,Uva,Monaragala,Mobile App,Consumer,Beauty,Skin Care Set,1,8990,0.15,7642,4400,3242,Credit Card,7,4,No,Weekend Deal
+LM26-0046,2026-01-12,Central,Kandy,Online,Consumer,Beauty,Skin Care Set,3,8990,0.2,21576,13200,8376,Bank Transfer,8,3,No,Weekend Deal
+LM26-0047,2026-04-09,Western,Colombo,Mobile App,Consumer,Beauty,Perfume,4,11990,0,47960,27600,20360,Cash on Delivery,3,4,No,None
+LM26-0048,2026-06-17,Central,Matale,Online,Consumer,Fashion,Backpack,4,7490,0.05,28462,15200,13262,Cash on Delivery,6,3,No,New Year
+LM26-0049,2026-06-25,Southern,Hambantota,Online,Consumer,Fashion,Running Shoes,4,10990,0.2,35168,24400,10768,Cash on Delivery,4,4,No,New Year
+LM26-0050,2026-03-26,Eastern,Batticaloa,Mobile App,Consumer,Beauty,Skin Care Set,4,8990,0.1,32364,17600,14764,Cash on Delivery,2,5,No,App Exclusive
+LM26-0051,2026-05-06,Western,Negombo,Online,Consumer,Fashion,Casual Shirt,2,4990,0.2,7984,4500,3484,Cash on Delivery,7,4,No,Weekend Deal
+LM26-0052,2026-05-01,Western,Kalutara,Online,Consumer,Home,Air Fryer,2,24990,0.05,47481,35400,12081,Credit Card,8,3,No,App Exclusive
+LM26-0053,2026-04-28,Uva,Monaragala,Mobile App,Consumer,Beauty,Hair Dryer,3,7990,0.15,20375,14100,6275,Digital Wallet,5,3,Yes,New Year
+LM26-0054,2026-04-06,Western,Negombo,Store,Small Business,Sports,Dumbbell Set,1,15990,0,15990,9800,6190,Bank Transfer,0,5,No,None
+LM26-0055,2026-01-23,Western,Kalutara,Mobile App,Consumer,Home,Air Fryer,1,24990,0.15,21242,17700,3542,Debit Card,5,4,No,Weekend Deal
+LM26-0056,2026-01-16,Southern,Hambantota,Online,Small Business,Electronics,Wireless Earbuds,4,12990,0,51960,34112,17848,Debit Card,4,3,No,None
+LM26-0057,2026-01-24,Southern,Galle,Mobile App,Consumer,Home,Table Lamp,4,5990,0,23960,12600,11360,Bank Transfer,8,4,No,None
+LM26-0058,2026-01-07,Northern,Jaffna,Online,Consumer,Sports,Yoga Mat,4,4490,0.05,17062,8400,8662,Bank Transfer,2,4,No,New Year
+LM26-0059,2026-02-04,Uva,Monaragala,Online,Consumer,Fashion,Running Shoes,3,10990,0.05,31322,18300,13022,Digital Wallet,4,4,No,App Exclusive
+LM26-0060,2026-03-03,Central,Kandy,Online,Consumer,Home,Rice Cooker,2,13990,0,27980,18800,9180,Credit Card,4,3,No,None
+LM26-0061,2026-01-05,Southern,Galle,Online,Corporate,Sports,Dumbbell Set,3,15990,0.1,43173,29400,13773,Credit Card,5,4,No,None
+LM26-0062,2026-05-30,Uva,Monaragala,Mobile App,Consumer,Beauty,Hair Dryer,4,7990,0.1,28764,18800,9964,Cash on Delivery,9,3,No,New Year
+LM26-0063,2026-04-25,Northern,Jaffna,Mobile App,Consumer,Fashion,Casual Shirt,4,4990,0.15,16966,9000,7966,Bank Transfer,2,4,No,App Exclusive
+LM26-0064,2026-03-21,Sabaragamuwa,Kegalle,Mobile App,Consumer,Fashion,Casual Shirt,3,4990,0.05,14222,6750,7472,Debit Card,6,4,No,App Exclusive
+LM26-0065,2026-02-09,Southern,Hambantota,Mobile App,Consumer,Sports,Yoga Mat,3,4490,0.2,10776,6300,4476,Credit Card,2,5,No,App Exclusive
+LM26-0066,2026-03-21,Western,Negombo,Online,Consumer,Fashion,Running Shoes,3,10990,0.05,31322,18300,13022,Cash on Delivery,4,3,No,None
+LM26-0067,2026-01-28,Central,Nuwara Eliya,Store,Consumer,Beauty,Skin Care Set,1,8990,0.05,8541,4400,4141,Cash on Delivery,0,4,Yes,None
+LM26-0068,2026-06-07,Southern,Hambantota,Store,Consumer,Fashion,Casual Shirt,3,4990,0.05,14222,6750,7472,Digital Wallet,0,4,Yes,New Year
+LM26-0069,2026-01-21,Western,Colombo,Mobile App,Consumer,Sports,Dumbbell Set,2,15990,0.05,30381,19600,10781,Debit Card,3,5,No,Weekend Deal
+LM26-0070,2026-02-24,Northern,Kilinochchi,Store,Corporate,Beauty,Perfume,4,11990,0.15000000000000002,40766,27600,13166,Credit Card,0,,No,New Year
+LM26-0071,2026-06-17,Uva,Monaragala,Store,Corporate,Home,Table Lamp,4,5990,0.25,17970,12600,5370,Cash on Delivery,0,5,No,New Year
+LM26-0072,2026-03-27,Southern,Galle,Mobile App,Small Business,Home,Rice Cooker,2,13990,0.1,25182,18800,6382,Cash on Delivery,5,4,No,App Exclusive
+LM26-0073,2026-01-28,Northern,Kilinochchi,Online,Small Business,Home,Air Fryer,2,24990,0,49980,35400,14580,Bank Transfer,4,5,No,None
+LM26-0074,2026-06-16,Southern,Matara,Store,Consumer,Beauty,Hair Dryer,1,7990,0.15,6792,4700,2092,Credit Card,0,5,No,New Year
+LM26-0075,2026-06-16,Uva,Monaragala,Store,Consumer,Beauty,Hair Dryer,1,7990,0.1,7191,4700,2491,Digital Wallet,0,5,No,Weekend Deal
+LM26-0076,2026-06-01,Southern,Galle,Mobile App,Consumer,Sports,Dumbbell Set,3,15990,0.2,38376,29400,8976,Cash on Delivery,9,4,No,New Year
+LM26-0077,2026-05-08,Western,Negombo,Online,Consumer,Home,Rice Cooker,3,13990,0.05,39872,28200,11672,Debit Card,8,,No,None
+LM26-0078,2026-03-18,Central,Kandy,Online,Consumer,Fashion,Casual Shirt,4,4990,0.2,15968,9000,6968,Bank Transfer,2,,No,Weekend Deal
+LM26-0079,2026-05-22,Western,Kalutara,Store,Consumer,Fashion,Casual Shirt,1,4990,0.05,4741,2250,2491,Bank Transfer,0,5,No,Weekend Deal
+LM26-0080,2026-04-07,Eastern,Batticaloa,Store,Consumer,Electronics,Wireless Earbuds,1,12990,0,12990,8528,4462,Credit Card,0,5,No,None
+LM26-0081,2026-02-24,North Western,Kurunegala,Store,Consumer,Beauty,Perfume,1,11990,0,11990,6900,5090,Digital Wallet,0,5,No,None
+LM26-0082,2026-02-16,North Western,Puttalam,Store,Consumer,Beauty,Perfume,1,11990,0,11990,6900,5090,Cash on Delivery,0,4,No,None
+LM26-0083,2026-01-17,Uva,Badulla,Store,Small Business,Beauty,Perfume,3,11990,0.15,30575,20700,9875,Digital Wallet,0,5,No,New Year
+LM26-0084,2026-02-07,Western,Kalutara,Online,Consumer,Electronics,Wireless Earbuds,1,12990,0.15,11042,8528,2514,Debit Card,1,5,No,App Exclusive
+LM26-0085,2026-03-20,Central,Nuwara Eliya,Store,Corporate,Beauty,Perfume,4,11990,0.05,45562,27600,17962,Credit Card,0,5,No,None
+LM26-0086,2026-01-29,Southern,Matara,Store,Small Business,Electronics,Smart Watch,3,18990,0.05,54122,38064,16058,Cash on Delivery,0,4,No,Weekend Deal
+LM26-0087,2026-03-11,Southern,Matara,Mobile App,Consumer,Electronics,Bluetooth Speaker,4,9990,0.2,31968,25792,6176,Digital Wallet,2,3,Yes,Weekend Deal
+LM26-0088,2026-02-21,North Western,Kurunegala,Mobile App,Corporate,Electronics,Wireless Earbuds,4,12990,0.25,38970,34112,4858,Debit Card,7,3,No,Weekend Deal
+LM26-0089,2026-06-14,Uva,Monaragala,Online,Small Business,Electronics,Smart Watch,1,18990,0.05,18041,12688,5353,Credit Card,7,3,No,Weekend Deal
+LM26-0090,2026-02-27,Southern,Hambantota,Store,Small Business,Electronics,Bluetooth Speaker,3,9990,0.15,25475,19344,6131,Cash on Delivery,0,5,No,Weekend Deal
+LM26-0091,2026-03-19,North Central,Polonnaruwa,Store,Small Business,Beauty,Perfume,4,11990,0.2,38368,27600,10768,Debit Card,0,5,No,New Year
+LM26-0092,2026-03-01,North Western,Puttalam,Store,Consumer,Fashion,Running Shoes,1,10990,0,10990,6100,4890,Cash on Delivery,0,5,No,None
+LM26-0093,2026-05-16,Western,Negombo,Online,Corporate,Sports,Yoga Mat,1,4490,0.05,4266,2100,2166,Bank Transfer,6,4,No,None
+LM26-0094,2026-06-27,Southern,Hambantota,Mobile App,Consumer,Sports,Dumbbell Set,4,15990,0.05,60762,39200,21562,Bank Transfer,5,4,No,None
+LM26-0095,2026-06-29,Central,Kandy,Store,Consumer,Sports,Yoga Mat,2,4490,0,8980,4200,4780,Bank Transfer,0,5,No,None
+LM26-0096,2026-04-29,Western,Colombo,Mobile App,Consumer,Beauty,Perfume,3,11990,0.1,32373,20700,11673,Digital Wallet,5,5,No,New Year
+LM26-0097,2026-04-15,North Central,Anuradhapura,Store,Consumer,Electronics,Bluetooth Speaker,4,9990,0.1,35964,25792,10172,Debit Card,0,4,No,App Exclusive
+LM26-0098,2026-06-05,Western,Kalutara,Online,Corporate,Electronics,Bluetooth Speaker,1,9990,0.05,9491,6448,3043,Debit Card,7,2,Yes,None
+LM26-0099,2026-06-04,Uva,Monaragala,Store,Corporate,Beauty,Perfume,1,11990,0.1,10791,6900,3891,Cash on Delivery,0,4,No,App Exclusive
+LM26-0100,2026-02-26,Northern,Jaffna,Store,Consumer,Beauty,Hair Dryer,4,7990,0,31960,18800,13160,Cash on Delivery,0,5,No,None
+LM26-0101,2026-02-04,Northern,Kilinochchi,Store,Corporate,Fashion,Running Shoes,2,10990,0.1,19782,12200,7582,Credit Card,0,5,No,New Year
+LM26-0102,2026-03-15,Western,Colombo,Online,Consumer,Electronics,Wireless Earbuds,3,12990,0.05,37022,25584,11438,Debit Card,5,4,No,None
+LM26-0103,2026-02-12,Central,Nuwara Eliya,Online,Consumer,Home,Table Lamp,1,5990,0.05,5691,3150,2541,Digital Wallet,3,4,No,App Exclusive
+LM26-0104,2026-01-22,Western,Kalutara,Online,Corporate,Fashion,Backpack,1,7490,0.1,6741,3800,2941,Cash on Delivery,5,4,No,New Year
+LM26-0105,2026-03-24,Western,Negombo,Store,Corporate,Sports,Dumbbell Set,4,15990,0.25,47970,39200,8770,Digital Wallet,0,5,No,App Exclusive
+LM26-0106,2026-02-25,Northern,Jaffna,Mobile App,Small Business,Home,Table Lamp,3,5990,0.05,17072,9450,7622,Cash on Delivery,5,4,No,None
+LM26-0107,2026-03-20,North Central,Anuradhapura,Online,Corporate,Sports,Yoga Mat,1,4490,0.1,4041,2100,1941,Debit Card,4,4,No,App Exclusive
+LM26-0108,2026-03-05,North Western,Kurunegala,Online,Consumer,Electronics,Bluetooth Speaker,1,9990,0.2,7992,6448,1544,Bank Transfer,8,3,No,App Exclusive
+LM26-0109,2026-03-31,North Western,Puttalam,Store,Consumer,Sports,Cricket Bat,1,12990,0,12990,7600,5390,Bank Transfer,0,5,No,None
+LM26-0110,2026-06-18,North Western,Puttalam,Mobile App,Consumer,Sports,Yoga Mat,1,4490,0.05,4266,2100,2166,Bank Transfer,7,4,No,None
+LM26-0111,2026-03-21,Eastern,Batticaloa,Online,Corporate,Sports,Dumbbell Set,4,15990,0.1,57564,39200,18364,Bank Transfer,9,4,No,None
+LM26-0112,2026-01-12,Sabaragamuwa,Ratnapura,Online,Consumer,Fashion,Backpack,1,7490,0.1,6741,3800,2941,Debit Card,7,2,Yes,Weekend Deal
+LM26-0113,2026-06-05,Sabaragamuwa,Kegalle,Mobile App,Consumer,Fashion,Casual Shirt,2,4990,0.05,9481,4500,4981,Cash on Delivery,3,5,No,App Exclusive
+LM26-0114,2026-03-24,Eastern,Trincomalee,Store,Corporate,Electronics,Bluetooth Speaker,2,9990,0.25,14985,12896,2089,Cash on Delivery,0,5,No,Weekend Deal
+LM26-0115,2026-06-01,Western,Colombo,Store,Consumer,Home,Rice Cooker,2,13990,0.1,25182,18800,6382,Debit Card,0,5,No,New Year
+LM26-0116,2026-06-30,Western,Colombo,Store,Consumer,Sports,Cricket Bat,3,12990,0,38970,22800,16170,Digital Wallet,0,4,No,None
+LM26-0117,2026-05-17,Western,Negombo,Store,Consumer,Sports,Dumbbell Set,2,15990,0.15,27183,19600,7583,Credit Card,0,5,No,App Exclusive
+LM26-0118,2026-03-21,Sabaragamuwa,Kegalle,Store,Small Business,Home,Table Lamp,1,5990,0.05,5691,3150,2541,Cash on Delivery,0,5,No,Weekend Deal
+LM26-0119,2026-03-04,Central,Nuwara Eliya,Store,Consumer,Sports,Dumbbell Set,4,15990,0.05,60762,39200,21562,Bank Transfer,0,4,No,None
+LM26-0120,2026-01-07,Western,Negombo,Mobile App,Corporate,Electronics,Smart Watch,1,18990,0.25,14243,12688,1555,Bank Transfer,6,3,No,New Year
+LM26-0121,2026-03-31,Central,Nuwara Eliya,Mobile App,Consumer,Fashion,Casual Shirt,3,4990,0.1,13473,6750,6723,Digital Wallet,3,4,No,Weekend Deal
+LM26-0122,2026-06-27,Eastern,Batticaloa,Mobile App,Small Business,Electronics,Bluetooth Speaker,3,9990,0.15,25475,19344,6131,Debit Card,5,4,No,App Exclusive
+LM26-0123,2026-03-31,Eastern,Trincomalee,Mobile App,Consumer,Fashion,Casual Shirt,3,4990,0,14970,6750,8220,Debit Card,6,4,No,None
+LM26-0124,2026-05-23,Central,Kandy,Online,Small Business,Beauty,Skin Care Set,2,8990,0,17980,8800,9180,Cash on Delivery,9,3,No,None
+LM26-0125,2026-02-11,North Central,Polonnaruwa,Store,Corporate,Fashion,Running Shoes,2,10990,0.2,17584,12200,5384,Credit Card,0,5,No,Weekend Deal
+LM26-0126,2026-05-25,Southern,Matara,Store,Consumer,Beauty,Hair Dryer,2,7990,0.2,12784,9400,3384,Cash on Delivery,0,5,No,New Year
+LM26-0127,2026-02-03,Western,Negombo,Mobile App,Corporate,Beauty,Hair Dryer,3,7990,0.15000000000000002,20375,14100,6275,Bank Transfer,7,4,No,App Exclusive
+LM26-0128,2026-02-01,Central,Kandy,Store,Consumer,Sports,Dumbbell Set,4,15990,0.05,60762,39200,21562,Bank Transfer,0,5,No,None
+LM26-0129,2026-02-14,Western,Negombo,Online,Consumer,Electronics,Wireless Earbuds,4,12990,0,51960,34112,17848,Credit Card,8,4,No,None
+LM26-0130,2026-04-07,Uva,Badulla,Store,Consumer,Fashion,Backpack,3,7490,0,22470,11400,11070,Cash on Delivery,0,5,No,None
+LM26-0131,2026-06-22,Central,Kandy,Mobile App,Small Business,Sports,Dumbbell Set,1,15990,0.2,12792,9800,2992,Cash on Delivery,4,4,No,App Exclusive
+LM26-0132,2026-03-22,Central,Kandy,Online,Consumer,Beauty,Hair Dryer,4,7990,0.15,27166,18800,8366,Cash on Delivery,2,5,No,Weekend Deal
+LM26-0133,2026-05-15,Western,Kalutara,Online,Consumer,Beauty,Skin Care Set,1,8990,0.2,7192,4400,2792,Digital Wallet,1,,No,New Year
+LM26-0134,2026-06-23,Central,Matale,Store,Small Business,Home,Air Fryer,1,24990,0,24990,17700,7290,Credit Card,0,4,No,None
+LM26-0135,2026-04-07,Southern,Matara,Mobile App,Consumer,Fashion,Backpack,3,7490,0.15,19100,11400,7700,Cash on Delivery,7,4,No,New Year
+LM26-0136,2026-04-23,Sabaragamuwa,Kegalle,Store,Small Business,Fashion,Backpack,4,7490,0,29960,15200,14760,Credit Card,0,4,No,None
+LM26-0137,2026-02-07,Central,Kandy,Online,Consumer,Home,Rice Cooker,2,13990,0.05,26581,18800,7781,Cash on Delivery,5,3,No,None
+LM26-0138,2026-05-20,Western,Colombo,Online,Consumer,Home,Table Lamp,2,5990,0.1,10782,6300,4482,Cash on Delivery,3,4,No,App Exclusive
+LM26-0139,2026-02-21,Sabaragamuwa,Kegalle,Store,Consumer,Fashion,Casual Shirt,4,4990,0.05,18962,9000,9962,Digital Wallet,0,,No,New Year
+LM26-0140,2026-05-02,Southern,Galle,Online,Consumer,Home,Table Lamp,4,5990,0.2,19168,12600,6568,Cash on Delivery,3,4,No,App Exclusive
+LM26-0141,2026-02-23,North Central,Anuradhapura,Store,Corporate,Beauty,Hair Dryer,2,7990,0.05,15181,9400,5781,Cash on Delivery,0,4,No,None
+LM26-0142,2026-06-15,Northern,Jaffna,Store,Consumer,Fashion,Running Shoes,1,10990,0.15,9342,6100,3242,Digital Wallet,0,5,No,New Year
+LM26-0143,2026-05-29,Central,Kandy,Mobile App,Consumer,Electronics,Wireless Earbuds,1,12990,0.2,10392,8528,1864,Cash on Delivery,7,4,No,App Exclusive
+LM26-0144,2026-03-04,Central,Matale,Online,Small Business,Home,Air Fryer,2,24990,0.05,47481,35400,12081,Credit Card,5,4,No,None
+LM26-0145,2026-03-25,Sabaragamuwa,Ratnapura,Store,Small Business,Electronics,Bluetooth Speaker,1,9990,0.2,7992,6448,1544,Credit Card,0,,No,New Year
+LM26-0146,2026-05-07,Western,Colombo,Online,Small Business,Sports,Dumbbell Set,4,15990,0.2,51168,39200,11968,Credit Card,8,3,No,New Year
+LM26-0147,2026-03-25,Central,Kandy,Online,Consumer,Beauty,Skin Care Set,3,8990,0.1,24273,13200,11073,Digital Wallet,4,3,Yes,Weekend Deal
+LM26-0148,2026-01-28,Central,Nuwara Eliya,Mobile App,Small Business,Sports,Dumbbell Set,4,15990,0,63960,39200,24760,Credit Card,6,,No,None
+LM26-0149,2026-02-22,Southern,Hambantota,Mobile App,Consumer,Electronics,Bluetooth Speaker,2,9990,0.15,16983,12896,4087,Digital Wallet,7,3,No,New Year
+LM26-0150,2026-02-24,Western,Kalutara,Store,Corporate,Sports,Cricket Bat,4,12990,0.25,38970,30400,8570,Credit Card,0,5,No,New Year
+LM26-0151,2026-05-06,Sabaragamuwa,Kegalle,Online,Consumer,Fashion,Backpack,1,7490,0,7490,3800,3690,Bank Transfer,3,3,Yes,None
+LM26-0152,2026-01-25,Sabaragamuwa,Ratnapura,Online,Small Business,Sports,Cricket Bat,4,12990,0.05,49362,30400,18962,Cash on Delivery,7,3,No,New Year
+LM26-0153,2026-02-21,North Central,Polonnaruwa,Online,Consumer,Home,Air Fryer,2,24990,0.2,39984,35400,4584,Digital Wallet,3,4,No,Weekend Deal
+LM26-0154,2026-06-26,Western,Kalutara,Online,Corporate,Fashion,Backpack,4,7490,0.1,26964,15200,11764,Cash on Delivery,6,4,No,New Year
+LM26-0155,2026-06-14,Southern,Hambantota,Store,Consumer,Sports,Dumbbell Set,3,15990,0.1,43173,29400,13773,Cash on Delivery,0,5,No,App Exclusive
+LM26-0156,2026-06-11,Western,Negombo,Store,Small Business,Electronics,Smart Watch,2,18990,0.2,30384,25376,5008,Cash on Delivery,0,5,No,Weekend Deal
+LM26-0157,2026-06-23,North Central,Polonnaruwa,Mobile App,Corporate,Home,Table Lamp,1,5990,0.1,5391,3150,2241,Bank Transfer,5,4,No,Weekend Deal
+LM26-0158,2026-03-12,Southern,Galle,Mobile App,Consumer,Fashion,Running Shoes,2,10990,0.15,18683,12200,6483,Cash on Delivery,7,2,Yes,Weekend Deal
+LM26-0159,2026-04-19,Central,Kandy,Mobile App,Consumer,Sports,Yoga Mat,3,4490,0.15,11450,6300,5150,Credit Card,8,3,No,App Exclusive
+LM26-0160,2026-05-28,Eastern,Trincomalee,Mobile App,Small Business,Home,Air Fryer,3,24990,0.05,71222,53100,18122,Digital Wallet,4,5,No,New Year
+LM26-0161,2026-05-26,Eastern,Batticaloa,Online,Consumer,Beauty,Hair Dryer,1,7990,0.05,7591,4700,2891,Digital Wallet,8,3,No,None
+LM26-0162,2026-04-11,Western,Colombo,Online,Consumer,Electronics,Bluetooth Speaker,3,9990,0.05,28472,19344,9128,Bank Transfer,5,3,No,App Exclusive
+LM26-0163,2026-02-25,Sabaragamuwa,Ratnapura,Online,Consumer,Home,Table Lamp,2,5990,0,11980,6300,5680,Digital Wallet,7,4,No,None
+LM26-0164,2026-06-18,Central,Kandy,Store,Consumer,Sports,Yoga Mat,4,4490,0.05,17062,8400,8662,Digital Wallet,0,,No,Weekend Deal
+LM26-0165,2026-01-01,Southern,Hambantota,Store,Consumer,Sports,Dumbbell Set,4,15990,0.1,57564,39200,18364,Debit Card,0,4,No,App Exclusive
+LM26-0166,2026-01-30,Western,Kalutara,Online,Consumer,Sports,Yoga Mat,4,4490,0.2,14368,8400,5968,Credit Card,7,3,No,New Year
+LM26-0167,2026-03-28,Central,Kandy,Mobile App,Corporate,Electronics,Smart Watch,2,18990,0.1,34182,25376,8806,Bank Transfer,7,4,No,None
+LM26-0168,2026-05-13,Central,Nuwara Eliya,Store,Corporate,Home,Rice Cooker,2,13990,0.25,20985,18800,2185,Debit Card,0,5,No,App Exclusive
+LM26-0169,2026-01-16,Western,Colombo,Store,Consumer,Sports,Cricket Bat,4,12990,0.1,46764,30400,16364,Cash on Delivery,0,5,No,App Exclusive
+LM26-0170,2026-04-27,Central,Matale,Online,Consumer,Home,Rice Cooker,2,13990,0.05,26581,18800,7781,Digital Wallet,4,4,No,Weekend Deal
+LM26-0171,2026-01-15,Eastern,Trincomalee,Store,Corporate,Sports,Yoga Mat,2,4490,0.15000000000000002,7633,4200,3433,Cash on Delivery,0,5,No,New Year
+LM26-0172,2026-01-22,Sabaragamuwa,Kegalle,Online,Corporate,Fashion,Backpack,4,7490,0.2,23968,15200,8768,Bank Transfer,2,4,No,Weekend Deal
+LM26-0173,2026-06-19,Western,Negombo,Store,Small Business,Beauty,Skin Care Set,1,8990,0.2,7192,4400,2792,Debit Card,0,5,No,App Exclusive
+LM26-0174,2026-01-11,Sabaragamuwa,Ratnapura,Mobile App,Corporate,Electronics,Bluetooth Speaker,1,9990,0.05,9491,6448,3043,Debit Card,2,4,Yes,None
+LM26-0175,2026-06-01,Western,Negombo,Store,Small Business,Fashion,Backpack,4,7490,0.15,25466,15200,10266,Debit Card,0,5,No,Weekend Deal
+LM26-0176,2026-02-14,Uva,Monaragala,Mobile App,Corporate,Fashion,Casual Shirt,1,4990,0.25,3743,2250,1493,Credit Card,4,4,No,App Exclusive
+LM26-0177,2026-05-26,Sabaragamuwa,Kegalle,Online,Consumer,Sports,Cricket Bat,1,12990,0,12990,7600,5390,Bank Transfer,3,5,No,None
+LM26-0178,2026-02-13,Northern,Kilinochchi,Store,Small Business,Beauty,Hair Dryer,2,7990,0,15980,9400,6580,Bank Transfer,0,4,No,None
+LM26-0179,2026-03-25,Central,Kandy,Store,Consumer,Beauty,Skin Care Set,3,8990,0.05,25622,13200,12422,Digital Wallet,0,5,No,None
+LM26-0180,2026-03-18,Sabaragamuwa,Kegalle,Online,Consumer,Home,Table Lamp,4,5990,0.1,21564,12600,8964,Bank Transfer,8,2,Yes,New Year
+LM26-0181,2026-02-08,North Western,Puttalam,Store,Small Business,Beauty,Skin Care Set,1,8990,0.2,7192,4400,2792,Debit Card,0,5,No,Weekend Deal
+LM26-0182,2026-06-30,Northern,Kilinochchi,Mobile App,Consumer,Home,Air Fryer,2,24990,0,49980,35400,14580,Digital Wallet,8,4,No,None
+LM26-0183,2026-05-31,Western,Colombo,Online,Consumer,Electronics,Wireless Earbuds,1,12990,0.05,12341,8528,3813,Debit Card,2,5,No,None
+LM26-0184,2026-02-15,Western,Negombo,Mobile App,Consumer,Electronics,Wireless Earbuds,3,12990,0,38970,25584,13386,Digital Wallet,1,4,No,None
+LM26-0185,2026-02-12,North Central,Polonnaruwa,Store,Corporate,Electronics,Wireless Earbuds,2,12990,0.2,20784,17056,3728,Cash on Delivery,0,,No,New Year
+LM26-0186,2026-06-09,Central,Kandy,Store,Corporate,Fashion,Backpack,4,7490,0.2,23968,15200,8768,Digital Wallet,0,5,No,Weekend Deal
+LM26-0187,2026-01-14,Western,Kalutara,Online,Consumer,Home,Rice Cooker,4,13990,0.1,50364,37600,12764,Digital Wallet,2,4,No,App Exclusive
+LM26-0188,2026-06-28,Western,Kalutara,Mobile App,Consumer,Sports,Dumbbell Set,4,15990,0.15,54366,39200,15166,Debit Card,5,3,No,New Year
+LM26-0189,2026-03-19,Eastern,Batticaloa,Store,Consumer,Sports,Yoga Mat,4,4490,0.2,14368,8400,5968,Credit Card,0,4,No,Weekend Deal
+LM26-0190,2026-04-02,North Central,Polonnaruwa,Online,Consumer,Home,Table Lamp,2,5990,0.2,9584,6300,3284,Credit Card,6,3,No,Weekend Deal
+LM26-0191,2026-03-08,Central,Matale,Store,Consumer,Home,Air Fryer,1,24990,0.15,21242,17700,3542,Bank Transfer,0,5,No,New Year
+LM26-0192,2026-02-26,Western,Negombo,Store,Consumer,Home,Table Lamp,2,5990,0,11980,6300,5680,Digital Wallet,0,4,No,None
+LM26-0193,2026-06-25,Central,Nuwara Eliya,Online,Consumer,Electronics,Smart Watch,4,18990,0.05,72162,50752,21410,Bank Transfer,5,4,No,None
+LM26-0194,2026-02-07,Western,Colombo,Store,Corporate,Sports,Yoga Mat,2,4490,0.25,6735,4200,2535,Digital Wallet,0,5,No,New Year
+LM26-0195,2026-01-20,Central,Nuwara Eliya,Online,Corporate,Electronics,Wireless Earbuds,1,12990,0.25,9743,8528,1215,Digital Wallet,8,4,No,Weekend Deal
+LM26-0196,2026-06-21,Western,Negombo,Store,Consumer,Electronics,Bluetooth Speaker,2,9990,0.15,16983,12896,4087,Credit Card,0,5,No,New Year
+LM26-0197,2026-05-26,Southern,Galle,Mobile App,Consumer,Sports,Dumbbell Set,4,15990,0.15,54366,39200,15166,Debit Card,9,3,No,Weekend Deal
+LM26-0198,2026-04-11,Western,Negombo,Online,Consumer,Home,Table Lamp,3,5990,0.05,17072,9450,7622,Digital Wallet,2,5,No,New Year
+LM26-0199,2026-03-27,Northern,Kilinochchi,Online,Consumer,Home,Air Fryer,2,24990,0.2,39984,35400,4584,Cash on Delivery,8,2,No,App Exclusive
+LM26-0200,2026-01-12,Western,Kalutara,Store,Small Business,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Cash on Delivery,0,5,No,None
+LM26-0201,2026-02-11,Central,Matale,Store,Consumer,Home,Rice Cooker,2,13990,0.05,26581,18800,7781,Digital Wallet,0,5,No,Weekend Deal
+LM26-0202,2026-02-05,Eastern,Batticaloa,Online,Consumer,Electronics,Bluetooth Speaker,3,9990,0.1,26973,19344,7629,Digital Wallet,3,5,No,App Exclusive
+LM26-0203,2026-06-20,North Central,Polonnaruwa,Mobile App,Corporate,Electronics,Wireless Earbuds,3,12990,0.1,35073,25584,9489,Digital Wallet,3,4,No,None
+LM26-0204,2026-03-21,Sabaragamuwa,Kegalle,Store,Consumer,Beauty,Skin Care Set,3,8990,0.15,22925,13200,9725,Digital Wallet,0,4,No,New Year
+LM26-0205,2026-06-05,North Central,Anuradhapura,Store,Consumer,Fashion,Running Shoes,1,10990,0.2,8792,6100,2692,Credit Card,0,4,No,New Year
+LM26-0206,2026-04-16,North Central,Polonnaruwa,Mobile App,Consumer,Electronics,Wireless Earbuds,3,12990,0,38970,25584,13386,Debit Card,6,4,No,None
+LM26-0207,2026-05-03,Uva,Badulla,Mobile App,Small Business,Beauty,Perfume,3,11990,0,35970,20700,15270,Bank Transfer,6,3,No,None
+LM26-0208,2026-06-18,North Central,Anuradhapura,Store,Consumer,Beauty,Perfume,1,11990,0,11990,6900,5090,Credit Card,0,5,No,None
+LM26-0209,2026-04-12,Western,Kalutara,Mobile App,Small Business,Fashion,Backpack,4,7490,0.05,28462,15200,13262,Bank Transfer,1,4,Yes,Weekend Deal
+LM26-0210,2026-02-11,North Central,Polonnaruwa,Online,Corporate,Electronics,Wireless Earbuds,1,12990,0.1,11691,8528,3163,Credit Card,6,4,No,None
+LM26-0211,2026-05-16,Central,Kandy,Mobile App,Consumer,Electronics,Wireless Earbuds,2,12990,0.2,20784,17056,3728,Credit Card,3,5,No,App Exclusive
+LM26-0212,2026-05-22,Southern,Hambantota,Store,Consumer,Fashion,Backpack,3,7490,0.1,20223,11400,8823,Credit Card,0,5,No,Weekend Deal
+LM26-0213,2026-06-19,Western,Colombo,Mobile App,Small Business,Home,Air Fryer,4,24990,0.05,94962,70800,24162,Credit Card,1,5,No,None
+LM26-0214,2026-04-11,Southern,Hambantota,Online,Consumer,Sports,Cricket Bat,4,12990,0.05,49362,30400,18962,Digital Wallet,6,4,No,None
+LM26-0215,2026-02-12,Eastern,Trincomalee,Store,Corporate,Fashion,Backpack,2,7490,0.05,14231,7600,6631,Digital Wallet,0,4,No,None
+LM26-0216,2026-05-27,Southern,Hambantota,Mobile App,Consumer,Beauty,Perfume,4,11990,0.1,43164,27600,15564,Cash on Delivery,3,5,No,New Year
+LM26-0217,2026-03-25,Sabaragamuwa,Kegalle,Store,Consumer,Electronics,Bluetooth Speaker,1,9990,0.1,8991,6448,2543,Debit Card,0,,No,Weekend Deal
+LM26-0218,2026-06-18,Sabaragamuwa,Ratnapura,Online,Consumer,Home,Table Lamp,2,5990,0,11980,6300,5680,Digital Wallet,3,5,No,None
+LM26-0219,2026-04-03,North Central,Polonnaruwa,Store,Consumer,Beauty,Hair Dryer,3,7990,0.05,22772,14100,8672,Debit Card,0,5,No,App Exclusive
+LM26-0220,2026-06-24,Uva,Monaragala,Mobile App,Corporate,Beauty,Hair Dryer,1,7990,0.05,7591,4700,2891,Bank Transfer,2,5,No,None
+LM26-0221,2026-01-19,Central,Kandy,Mobile App,Consumer,Fashion,Casual Shirt,4,4990,0.2,15968,9000,6968,Credit Card,3,4,No,App Exclusive
+LM26-0222,2026-02-04,Southern,Matara,Store,Consumer,Fashion,Backpack,3,7490,0,22470,11400,11070,Cash on Delivery,0,5,No,None
+LM26-0223,2026-01-21,Western,Kalutara,Online,Consumer,Fashion,Backpack,2,7490,0.05,14231,7600,6631,Bank Transfer,2,4,No,None
+LM26-0224,2026-01-08,Southern,Hambantota,Store,Consumer,Electronics,Bluetooth Speaker,2,9990,0,19980,12896,7084,Debit Card,0,5,Yes,None
+LM26-0225,2026-04-21,Southern,Hambantota,Mobile App,Small Business,Sports,Yoga Mat,1,4490,0.1,4041,2100,1941,Credit Card,3,4,No,Weekend Deal
+LM26-0226,2026-05-30,Western,Negombo,Online,Consumer,Beauty,Skin Care Set,4,8990,0.05,34162,17600,16562,Debit Card,5,3,No,None
+LM26-0227,2026-04-24,Central,Kandy,Store,Consumer,Electronics,Bluetooth Speaker,2,9990,0.05,18981,12896,6085,Debit Card,0,5,No,App Exclusive
+LM26-0228,2026-02-05,Northern,Kilinochchi,Online,Small Business,Fashion,Running Shoes,2,10990,0.05,20881,12200,8681,Debit Card,4,4,No,None
+LM26-0229,2026-05-31,Sabaragamuwa,Ratnapura,Store,Consumer,Home,Rice Cooker,3,13990,0.05,39872,28200,11672,Bank Transfer,0,5,No,Weekend Deal
+LM26-0230,2026-03-16,Northern,Kilinochchi,Mobile App,Small Business,Fashion,Casual Shirt,3,4990,0,14970,6750,8220,Digital Wallet,8,,No,None
+LM26-0231,2026-01-03,Central,Kandy,Store,Consumer,Home,Table Lamp,4,5990,0.1,21564,12600,8964,Digital Wallet,0,5,No,New Year
+LM26-0232,2026-03-24,Central,Nuwara Eliya,Online,Consumer,Home,Table Lamp,4,5990,0,23960,12600,11360,Digital Wallet,5,4,No,None
+LM26-0233,2026-04-21,Central,Nuwara Eliya,Mobile App,Corporate,Electronics,Bluetooth Speaker,4,9990,0.1,35964,25792,10172,Credit Card,2,5,No,None
+LM26-0234,2026-06-14,Central,Nuwara Eliya,Mobile App,Small Business,Electronics,Smart Watch,4,18990,0.2,60768,50752,10016,Bank Transfer,5,4,No,Weekend Deal
+LM26-0235,2026-03-18,Southern,Galle,Mobile App,Corporate,Sports,Cricket Bat,2,12990,0.15000000000000002,22083,15200,6883,Credit Card,5,4,No,Weekend Deal
+LM26-0236,2026-05-17,Central,Nuwara Eliya,Online,Corporate,Sports,Cricket Bat,4,12990,0.05,49362,30400,18962,Credit Card,6,4,No,None
+LM26-0237,2026-04-19,Sabaragamuwa,Ratnapura,Store,Consumer,Beauty,Hair Dryer,1,7990,0.1,7191,4700,2491,Bank Transfer,0,5,No,Weekend Deal
+LM26-0238,2026-02-25,North Central,Anuradhapura,Mobile App,Consumer,Fashion,Running Shoes,3,10990,0.05,31322,18300,13022,Cash on Delivery,6,4,No,None
+LM26-0239,2026-03-28,Western,Kalutara,Online,Small Business,Beauty,Skin Care Set,2,8990,0,17980,8800,9180,Credit Card,5,4,No,None
+LM26-0240,2026-02-26,North Central,Anuradhapura,Online,Consumer,Beauty,Perfume,3,11990,0.05,34172,20700,13472,Bank Transfer,7,4,No,Weekend Deal
+LM26-0241,2026-03-05,Uva,Monaragala,Online,Small Business,Electronics,Wireless Earbuds,4,12990,0.2,41568,34112,7456,Credit Card,8,4,No,App Exclusive
+LM26-0242,2026-06-01,North Western,Puttalam,Mobile App,Corporate,Sports,Cricket Bat,1,12990,0.1,11691,7600,4091,Digital Wallet,9,4,No,New Year
+LM26-0243,2026-03-31,Southern,Galle,Store,Consumer,Beauty,Skin Care Set,4,8990,0,35960,17600,18360,Debit Card,0,5,No,None
+LM26-0244,2026-02-05,Sabaragamuwa,Ratnapura,Store,Consumer,Fashion,Running Shoes,4,10990,0,43960,24400,19560,Bank Transfer,0,3,Yes,None
+LM26-0245,2026-01-03,North Western,Kurunegala,Mobile App,Small Business,Home,Rice Cooker,3,13990,0.05,39872,28200,11672,Credit Card,9,2,No,Weekend Deal
+LM26-0246,2026-06-26,Western,Kalutara,Online,Consumer,Beauty,Hair Dryer,4,7990,0.05,30362,18800,11562,Digital Wallet,2,5,No,App Exclusive
+LM26-0247,2026-02-04,Northern,Jaffna,Store,Small Business,Electronics,Smart Watch,4,18990,0.15,64566,50752,13814,Bank Transfer,0,4,No,New Year
+LM26-0248,2026-06-10,North Central,Anuradhapura,Online,Consumer,Electronics,Bluetooth Speaker,3,9990,0,29970,19344,10626,Credit Card,3,3,Yes,None
+LM26-0249,2026-02-11,Sabaragamuwa,Ratnapura,Mobile App,Small Business,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Debit Card,7,4,No,App Exclusive
+LM26-0250,2026-04-26,Sabaragamuwa,Ratnapura,Mobile App,Corporate,Home,Air Fryer,1,24990,0.1,22491,17700,4791,Credit Card,9,3,No,None
+LM26-0251,2026-01-23,Western,Negombo,Online,Small Business,Beauty,Perfume,4,11990,0.2,38368,27600,10768,Credit Card,1,5,No,Weekend Deal
+LM26-0252,2026-02-18,Western,Negombo,Mobile App,Consumer,Sports,Yoga Mat,2,4490,0.2,7184,4200,2984,Credit Card,5,4,No,App Exclusive
+LM26-0253,2026-01-12,Southern,Galle,Store,Consumer,Home,Air Fryer,3,24990,0,74970,53100,21870,Credit Card,0,5,No,None
+LM26-0254,2026-05-13,Western,Kalutara,Store,Consumer,Beauty,Hair Dryer,4,7990,0.05,30362,18800,11562,Debit Card,0,,No,App Exclusive
+LM26-0255,2026-01-17,Northern,Jaffna,Online,Consumer,Home,Air Fryer,1,24990,0,24990,17700,7290,Bank Transfer,8,3,No,None
+LM26-0256,2026-01-03,Sabaragamuwa,Ratnapura,Mobile App,Consumer,Beauty,Skin Care Set,1,8990,0,8990,4400,4590,Credit Card,8,,No,None
+LM26-0257,2026-06-24,Eastern,Trincomalee,Store,Consumer,Fashion,Casual Shirt,4,4990,0.2,15968,9000,6968,Cash on Delivery,0,,No,New Year
+LM26-0258,2026-04-07,Southern,Galle,Mobile App,Consumer,Fashion,Running Shoes,4,10990,0.15,37366,24400,12966,Debit Card,6,4,No,New Year
+LM26-0259,2026-05-12,Central,Kandy,Mobile App,Consumer,Electronics,Smart Watch,2,18990,0.1,34182,25376,8806,Debit Card,5,4,No,New Year
+LM26-0260,2026-05-27,Central,Matale,Mobile App,Corporate,Fashion,Backpack,3,7490,0.25,16853,11400,5453,Digital Wallet,5,4,No,App Exclusive
+LM26-0261,2026-04-27,Western,Negombo,Mobile App,Consumer,Fashion,Running Shoes,4,10990,0,43960,24400,19560,Credit Card,1,4,No,None
+LM26-0262,2026-05-05,Central,Nuwara Eliya,Online,Consumer,Electronics,Bluetooth Speaker,4,9990,0.05,37962,25792,12170,Digital Wallet,3,4,No,None
+LM26-0263,2026-01-22,Sabaragamuwa,Ratnapura,Online,Consumer,Home,Table Lamp,2,5990,0,11980,6300,5680,Debit Card,5,,No,None
+LM26-0264,2026-03-14,Western,Kalutara,Store,Small Business,Sports,Cricket Bat,4,12990,0.15,44166,30400,13766,Bank Transfer,0,5,No,Weekend Deal
+LM26-0265,2026-05-14,North Western,Kurunegala,Mobile App,Corporate,Home,Air Fryer,4,24990,0.05,94962,70800,24162,Bank Transfer,5,5,No,None
+LM26-0266,2026-01-17,Central,Matale,Store,Corporate,Sports,Yoga Mat,3,4490,0.05,12797,6300,6497,Credit Card,0,5,No,None
+LM26-0267,2026-03-21,Uva,Badulla,Online,Consumer,Electronics,Wireless Earbuds,4,12990,0,51960,34112,17848,Digital Wallet,5,3,No,None
+LM26-0268,2026-01-09,Western,Negombo,Store,Small Business,Sports,Yoga Mat,4,4490,0.05,17062,8400,8662,Cash on Delivery,0,5,No,None
+LM26-0269,2026-05-28,Western,Negombo,Store,Consumer,Electronics,Bluetooth Speaker,2,9990,0.15,16983,12896,4087,Bank Transfer,0,,No,New Year
+LM26-0270,2026-03-17,Southern,Galle,Store,Corporate,Fashion,Casual Shirt,4,4990,0.25,14970,9000,5970,Debit Card,0,,No,App Exclusive
+LM26-0271,2026-03-10,Eastern,Trincomalee,Mobile App,Consumer,Home,Table Lamp,4,5990,0.2,19168,12600,6568,Debit Card,9,2,No,Weekend Deal
+LM26-0272,2026-05-08,Eastern,Trincomalee,Store,Consumer,Electronics,Smart Watch,4,18990,0,75960,50752,25208,Digital Wallet,0,5,No,None
+LM26-0273,2026-04-11,Sabaragamuwa,Kegalle,Mobile App,Corporate,Fashion,Casual Shirt,4,4990,0.05,18962,9000,9962,Digital Wallet,6,4,No,None
+LM26-0274,2026-04-12,North Central,Anuradhapura,Store,Consumer,Electronics,Smart Watch,2,18990,0,37980,25376,12604,Debit Card,0,5,No,None
+LM26-0275,2026-04-22,Northern,Kilinochchi,Online,Corporate,Sports,Dumbbell Set,2,15990,0.1,28782,19600,9182,Credit Card,3,5,No,None
+LM26-0276,2026-02-27,North Western,Puttalam,Mobile App,Consumer,Sports,Cricket Bat,4,12990,0.05,49362,30400,18962,Digital Wallet,7,3,No,None
+LM26-0277,2026-05-22,Northern,Jaffna,Store,Consumer,Fashion,Backpack,1,7490,0,7490,3800,3690,Debit Card,0,5,No,None
+LM26-0278,2026-06-29,Uva,Monaragala,Online,Corporate,Fashion,Casual Shirt,3,4990,0.05,14222,6750,7472,Bank Transfer,4,4,No,None
+LM26-0279,2026-01-08,Southern,Matara,Store,Small Business,Sports,Cricket Bat,1,12990,0.1,11691,7600,4091,Debit Card,0,5,No,Weekend Deal
+LM26-0280,2026-05-21,Eastern,Batticaloa,Online,Consumer,Fashion,Running Shoes,3,10990,0.05,31322,18300,13022,Debit Card,9,3,No,App Exclusive
+LM26-0281,2026-03-30,Sabaragamuwa,Ratnapura,Mobile App,Small Business,Home,Air Fryer,3,24990,0.1,67473,53100,14373,Debit Card,5,4,No,Weekend Deal
+LM26-0282,2026-03-29,Western,Negombo,Online,Consumer,Electronics,Bluetooth Speaker,1,9990,0,9990,6448,3542,Debit Card,6,4,No,None
+LM26-0283,2026-04-16,Central,Kandy,Online,Corporate,Beauty,Hair Dryer,2,7990,0.2,12784,9400,3384,Cash on Delivery,9,3,No,Weekend Deal
+LM26-0284,2026-02-17,Southern,Galle,Mobile App,Corporate,Home,Air Fryer,4,24990,0.05,94962,70800,24162,Digital Wallet,2,5,No,None
+LM26-0285,2026-05-22,Western,Negombo,Store,Consumer,Home,Table Lamp,1,5990,0.05,5691,3150,2541,Credit Card,0,5,No,New Year
+LM26-0286,2026-04-16,Southern,Matara,Mobile App,Consumer,Electronics,Bluetooth Speaker,4,9990,0,39960,25792,14168,Credit Card,7,4,No,None
+LM26-0287,2026-06-09,Western,Kalutara,Online,Small Business,Beauty,Skin Care Set,2,8990,0.1,16182,8800,7382,Bank Transfer,8,3,No,Weekend Deal
+LM26-0288,2026-01-24,Sabaragamuwa,Kegalle,Store,Consumer,Electronics,Wireless Earbuds,2,12990,0.05,24681,17056,7625,Credit Card,0,5,No,None
+LM26-0289,2026-02-19,Eastern,Batticaloa,Online,Corporate,Beauty,Hair Dryer,2,7990,0.1,14382,9400,4982,Digital Wallet,6,4,No,None
+LM26-0290,2026-01-15,Western,Kalutara,Online,Corporate,Fashion,Casual Shirt,1,4990,0.2,3992,2250,1742,Credit Card,3,3,Yes,New Year
+LM26-0291,2026-02-13,North Central,Polonnaruwa,Online,Corporate,Fashion,Running Shoes,2,10990,0.2,17584,12200,5384,Digital Wallet,9,3,No,Weekend Deal
+LM26-0292,2026-06-19,Central,Matale,Online,Consumer,Beauty,Perfume,4,11990,0.2,38368,27600,10768,Debit Card,4,4,No,New Year
+LM26-0293,2026-06-04,Northern,Jaffna,Store,Consumer,Beauty,Skin Care Set,3,8990,0.2,21576,13200,8376,Bank Transfer,0,4,No,Weekend Deal
+LM26-0294,2026-04-20,Western,Kalutara,Online,Consumer,Sports,Cricket Bat,4,12990,0.05,49362,30400,18962,Credit Card,3,4,No,None
+LM26-0295,2026-04-20,North Western,Kurunegala,Online,Small Business,Home,Air Fryer,4,24990,0.15,84966,70800,14166,Cash on Delivery,3,4,No,New Year
+LM26-0296,2026-06-11,Central,Matale,Store,Small Business,Fashion,Backpack,2,7490,0.05,14231,7600,6631,Cash on Delivery,0,5,No,New Year
+LM26-0297,2026-05-07,Western,Kalutara,Mobile App,Consumer,Sports,Cricket Bat,1,12990,0.1,11691,7600,4091,Credit Card,5,3,No,New Year
+LM26-0298,2026-02-13,Western,Negombo,Store,Corporate,Beauty,Hair Dryer,4,7990,0.1,28764,18800,9964,Debit Card,0,5,No,New Year
+LM26-0299,2026-05-26,North Western,Puttalam,Mobile App,Consumer,Fashion,Casual Shirt,1,4990,0,4990,2250,2740,Bank Transfer,5,3,No,None
+LM26-0300,2026-03-14,North Western,Puttalam,Store,Consumer,Home,Rice Cooker,2,13990,0,27980,18800,9180,Digital Wallet,0,5,No,None
+LM26-0301,2026-04-17,Sabaragamuwa,Kegalle,Online,Consumer,Home,Rice Cooker,3,13990,0.1,37773,28200,9573,Bank Transfer,6,5,No,Weekend Deal
+LM26-0302,2026-01-12,North Central,Polonnaruwa,Online,Consumer,Sports,Dumbbell Set,3,15990,0,47970,29400,18570,Credit Card,5,3,No,None
+LM26-0303,2026-06-08,Western,Kalutara,Store,Consumer,Home,Table Lamp,1,5990,0.15,5092,3150,1942,Digital Wallet,0,5,No,New Year
+LM26-0304,2026-05-14,Western,Colombo,Online,Consumer,Sports,Yoga Mat,1,4490,0.05,4266,2100,2166,Bank Transfer,5,3,No,None
+LM26-0305,2026-05-21,Northern,Jaffna,Mobile App,Corporate,Home,Rice Cooker,3,13990,0.25,31478,28200,3278,Cash on Delivery,6,4,No,New Year
+LM26-0306,2026-01-02,Southern,Matara,Mobile App,Small Business,Fashion,Backpack,4,7490,0.05,28462,15200,13262,Bank Transfer,3,4,No,None
+LM26-0307,2026-01-21,Central,Kandy,Store,Consumer,Electronics,Bluetooth Speaker,2,9990,0,19980,12896,7084,Debit Card,0,,No,None
+LM26-0308,2026-06-04,North Central,Polonnaruwa,Online,Consumer,Fashion,Running Shoes,2,10990,0.15,18683,12200,6483,Digital Wallet,8,3,No,New Year
+LM26-0309,2026-01-17,Central,Kandy,Mobile App,Corporate,Sports,Cricket Bat,3,12990,0.25,29228,22800,6428,Debit Card,8,3,No,Weekend Deal
+LM26-0310,2026-03-28,Eastern,Batticaloa,Mobile App,Consumer,Home,Rice Cooker,2,13990,0.1,25182,18800,6382,Cash on Delivery,5,3,No,New Year
+LM26-0311,2026-01-06,Western,Kalutara,Store,Consumer,Home,Table Lamp,2,5990,0,11980,6300,5680,Cash on Delivery,0,4,No,None
+LM26-0312,2026-01-09,Eastern,Batticaloa,Online,Small Business,Home,Air Fryer,2,24990,0.05,47481,35400,12081,Debit Card,3,4,No,None
+LM26-0313,2026-05-24,Eastern,Trincomalee,Online,Corporate,Sports,Cricket Bat,1,12990,0.05,12341,7600,4741,Bank Transfer,4,5,No,None
+LM26-0314,2026-03-04,Western,Colombo,Mobile App,Consumer,Home,Air Fryer,3,24990,0.2,59976,53100,6876,Cash on Delivery,2,5,No,App Exclusive
+LM26-0315,2026-02-15,North Central,Polonnaruwa,Online,Small Business,Home,Air Fryer,3,24990,0,74970,53100,21870,Digital Wallet,6,4,No,None
+LM26-0316,2026-03-25,North Central,Polonnaruwa,Mobile App,Small Business,Beauty,Hair Dryer,3,7990,0.15,20375,14100,6275,Debit Card,7,3,No,Weekend Deal
+LM26-0317,2026-02-12,Central,Matale,Store,Corporate,Electronics,Smart Watch,1,18990,0.2,15192,12688,2504,Debit Card,0,5,No,New Year
+LM26-0318,2026-05-03,Western,Kalutara,Mobile App,Consumer,Home,Air Fryer,1,24990,0,24990,17700,7290,Bank Transfer,4,4,No,None
+LM26-0319,2026-06-02,Western,Kalutara,Store,Consumer,Home,Air Fryer,2,24990,0.2,39984,35400,4584,Digital Wallet,0,4,No,Weekend Deal
+LM26-0320,2026-06-23,Western,Colombo,Mobile App,Consumer,Electronics,Wireless Earbuds,3,12990,0.2,31176,25584,5592,Cash on Delivery,6,3,No,App Exclusive
+LM26-0321,2026-06-18,Western,Negombo,Mobile App,Consumer,Electronics,Smart Watch,4,18990,0.05,72162,50752,21410,Bank Transfer,2,4,No,New Year
+LM26-0322,2026-06-14,Northern,Jaffna,Store,Consumer,Electronics,Wireless Earbuds,1,12990,0,12990,8528,4462,Debit Card,0,,No,None
+LM26-0323,2026-06-07,Southern,Galle,Online,Consumer,Electronics,Bluetooth Speaker,2,9990,0,19980,12896,7084,Debit Card,9,2,No,None
+LM26-0324,2026-06-25,Northern,Jaffna,Store,Corporate,Fashion,Running Shoes,2,10990,0.25,16485,12200,4285,Digital Wallet,0,4,No,New Year
+LM26-0325,2026-02-25,Central,Kandy,Online,Consumer,Electronics,Bluetooth Speaker,2,9990,0.1,17982,12896,5086,Cash on Delivery,6,4,No,App Exclusive
+LM26-0326,2026-06-20,Western,Kalutara,Online,Consumer,Beauty,Hair Dryer,1,7990,0.2,6392,4700,1692,Debit Card,6,4,No,New Year
+LM26-0327,2026-01-17,Southern,Matara,Online,Consumer,Home,Rice Cooker,3,13990,0.05,39872,28200,11672,Bank Transfer,7,3,No,None
+LM26-0328,2026-01-28,Southern,Hambantota,Mobile App,Consumer,Beauty,Skin Care Set,2,8990,0.05,17081,8800,8281,Digital Wallet,5,4,No,Weekend Deal
+LM26-0329,2026-02-02,Western,Colombo,Store,Consumer,Home,Air Fryer,4,24990,0.15,84966,70800,14166,Debit Card,0,5,No,Weekend Deal
+LM26-0330,2026-01-01,Southern,Matara,Online,Consumer,Electronics,Wireless Earbuds,1,12990,0.05,12341,8528,3813,Digital Wallet,2,5,No,None
+LM26-0331,2026-01-01,Western,Kalutara,Mobile App,Consumer,Fashion,Running Shoes,2,10990,0.2,17584,12200,5384,Cash on Delivery,7,3,No,App Exclusive
+LM26-0332,2026-02-15,North Western,Kurunegala,Online,Consumer,Fashion,Casual Shirt,4,4990,0,19960,9000,10960,Debit Card,3,5,No,None
+LM26-0333,2026-01-21,Southern,Galle,Store,Consumer,Electronics,Smart Watch,4,18990,0,75960,50752,25208,Cash on Delivery,0,,No,None
+LM26-0334,2026-04-26,Western,Kalutara,Mobile App,Small Business,Sports,Cricket Bat,4,12990,0,51960,30400,21560,Bank Transfer,4,4,No,None
+LM26-0335,2026-04-22,Western,Colombo,Mobile App,Consumer,Sports,Dumbbell Set,1,15990,0.05,15191,9800,5391,Debit Card,1,4,No,Weekend Deal
+LM26-0336,2026-04-25,Southern,Matara,Store,Consumer,Fashion,Casual Shirt,2,4990,0.2,7984,4500,3484,Debit Card,0,5,No,App Exclusive
+LM26-0337,2026-03-23,Western,Colombo,Online,Small Business,Electronics,Bluetooth Speaker,3,9990,0.15,25475,19344,6131,Digital Wallet,4,4,No,New Year
+LM26-0338,2026-03-21,North Central,Polonnaruwa,Online,Consumer,Beauty,Skin Care Set,2,8990,0,17980,8800,9180,Cash on Delivery,4,3,No,None
+LM26-0339,2026-06-24,Western,Kalutara,Mobile App,Consumer,Fashion,Casual Shirt,3,4990,0.1,13473,6750,6723,Credit Card,5,4,No,Weekend Deal
+LM26-0340,2026-03-18,Uva,Monaragala,Store,Corporate,Beauty,Hair Dryer,2,7990,0.1,14382,9400,4982,Bank Transfer,0,,No,None
+LM26-0341,2026-02-14,Western,Kalutara,Store,Consumer,Fashion,Backpack,3,7490,0.2,17976,11400,6576,Debit Card,0,5,No,New Year
+LM26-0342,2026-03-17,Western,Kalutara,Online,Small Business,Beauty,Hair Dryer,2,7990,0.1,14382,9400,4982,Debit Card,2,4,No,Weekend Deal
+LM26-0343,2026-05-21,Southern,Hambantota,Mobile App,Consumer,Electronics,Wireless Earbuds,1,12990,0.1,11691,8528,3163,Cash on Delivery,8,4,No,App Exclusive
+LM26-0344,2026-01-10,Uva,Badulla,Store,Small Business,Electronics,Smart Watch,1,18990,0.05,18041,12688,5353,Cash on Delivery,0,4,No,None
+LM26-0345,2026-02-28,Western,Negombo,Online,Corporate,Home,Rice Cooker,4,13990,0.25,41970,37600,4370,Debit Card,1,5,No,App Exclusive
+LM26-0346,2026-03-28,Sabaragamuwa,Kegalle,Online,Consumer,Electronics,Bluetooth Speaker,1,9990,0.05,9491,6448,3043,Credit Card,9,3,No,None
+LM26-0347,2026-01-14,Uva,Badulla,Mobile App,Corporate,Electronics,Wireless Earbuds,1,12990,0.05,12341,8528,3813,Debit Card,6,4,No,None
+LM26-0348,2026-06-28,Eastern,Trincomalee,Online,Small Business,Electronics,Bluetooth Speaker,1,9990,0.05,9491,6448,3043,Credit Card,9,4,No,None
+LM26-0349,2026-05-01,Sabaragamuwa,Kegalle,Store,Consumer,Fashion,Running Shoes,4,10990,0.05,41762,24400,17362,Bank Transfer,0,5,No,Weekend Deal
+LM26-0350,2026-02-19,North Western,Kurunegala,Online,Small Business,Fashion,Backpack,4,7490,0,29960,15200,14760,Debit Card,6,4,No,None
+LM26-0351,2026-04-04,Southern,Matara,Mobile App,Consumer,Electronics,Smart Watch,2,18990,0,37980,25376,12604,Digital Wallet,9,3,No,None
+LM26-0352,2026-05-11,Central,Matale,Mobile App,Consumer,Electronics,Wireless Earbuds,4,12990,0.05,49362,34112,15250,Digital Wallet,9,3,No,None
+LM26-0353,2026-02-27,North Central,Polonnaruwa,Mobile App,Consumer,Electronics,Smart Watch,3,18990,0,56970,38064,18906,Bank Transfer,8,2,No,None
+LM26-0354,2026-04-02,Western,Kalutara,Online,Consumer,Home,Rice Cooker,4,13990,0.15,47566,37600,9966,Bank Transfer,5,3,No,New Year
+LM26-0355,2026-05-30,Western,Kalutara,Mobile App,Consumer,Fashion,Running Shoes,3,10990,0.2,26376,18300,8076,Cash on Delivery,6,3,No,Weekend Deal
+LM26-0356,2026-04-18,Central,Kandy,Online,Corporate,Home,Table Lamp,3,5990,0.05,17072,9450,7622,Cash on Delivery,8,4,No,None
+LM26-0357,2026-06-17,Southern,Matara,Mobile App,Corporate,Fashion,Running Shoes,4,10990,0.15000000000000002,37366,24400,12966,Bank Transfer,4,,No,App Exclusive
+LM26-0358,2026-02-22,Eastern,Trincomalee,Online,Consumer,Beauty,Skin Care Set,1,8990,0.05,8541,4400,4141,Debit Card,2,5,No,Weekend Deal
+LM26-0359,2026-01-09,Western,Negombo,Store,Consumer,Beauty,Skin Care Set,2,8990,0.05,17081,8800,8281,Debit Card,0,5,No,Weekend Deal
+LM26-0360,2026-01-10,Central,Kandy,Store,Consumer,Fashion,Backpack,4,7490,0,29960,15200,14760,Digital Wallet,0,4,No,None
+LM26-0361,2026-06-27,Sabaragamuwa,Kegalle,Mobile App,Consumer,Home,Rice Cooker,1,13990,0,13990,9400,4590,Credit Card,7,3,No,None
+LM26-0362,2026-06-29,Western,Negombo,Store,Corporate,Electronics,Wireless Earbuds,3,12990,0.1,35073,25584,9489,Cash on Delivery,0,5,No,None
+LM26-0363,2026-05-22,Sabaragamuwa,Ratnapura,Mobile App,Consumer,Beauty,Perfume,4,11990,0,47960,27600,20360,Credit Card,4,5,No,None
+LM26-0364,2026-05-20,Eastern,Trincomalee,Online,Corporate,Electronics,Smart Watch,1,18990,0.25,14243,12688,1555,Cash on Delivery,3,4,No,New Year
+LM26-0365,2026-02-21,Northern,Kilinochchi,Online,Consumer,Sports,Dumbbell Set,3,15990,0.05,45572,29400,16172,Debit Card,4,5,No,Weekend Deal
+LM26-0366,2026-06-20,Uva,Monaragala,Online,Small Business,Sports,Dumbbell Set,2,15990,0,31980,19600,12380,Cash on Delivery,5,4,No,None
+LM26-0367,2026-03-16,North Central,Polonnaruwa,Online,Consumer,Home,Rice Cooker,4,13990,0,55960,37600,18360,Credit Card,7,3,No,None
+LM26-0368,2026-01-21,Southern,Galle,Online,Consumer,Sports,Dumbbell Set,1,15990,0.15,13592,9800,3792,Debit Card,2,5,No,App Exclusive
+LM26-0369,2026-06-09,Western,Colombo,Mobile App,Consumer,Sports,Dumbbell Set,3,15990,0.05,45572,29400,16172,Cash on Delivery,8,,No,None
+LM26-0370,2026-06-09,North Western,Kurunegala,Store,Consumer,Fashion,Casual Shirt,1,4990,0.1,4491,2250,2241,Credit Card,0,4,No,New Year
+LM26-0371,2026-06-12,Western,Kalutara,Online,Small Business,Beauty,Hair Dryer,2,7990,0,15980,9400,6580,Bank Transfer,7,3,No,None
+LM26-0372,2026-03-29,Sabaragamuwa,Ratnapura,Online,Corporate,Beauty,Perfume,1,11990,0.2,9592,6900,2692,Cash on Delivery,5,4,No,Weekend Deal
+LM26-0373,2026-06-02,Southern,Hambantota,Online,Small Business,Electronics,Smart Watch,2,18990,0.1,34182,25376,8806,Digital Wallet,9,4,No,New Year
+LM26-0374,2026-02-15,Southern,Galle,Online,Corporate,Electronics,Smart Watch,2,18990,0.2,30384,25376,5008,Bank Transfer,7,3,No,New Year
+LM26-0375,2026-02-02,Southern,Matara,Online,Consumer,Home,Table Lamp,1,5990,0.15,5092,3150,1942,Debit Card,8,4,No,App Exclusive
+LM26-0376,2026-06-09,Western,Kalutara,Online,Consumer,Home,Air Fryer,3,24990,0.05,71222,53100,18122,Cash on Delivery,5,,No,App Exclusive
+LM26-0377,2026-04-14,Central,Kandy,Mobile App,Corporate,Home,Rice Cooker,1,13990,0.15000000000000002,11892,9400,2492,Cash on Delivery,4,3,No,New Year
+LM26-0378,2026-05-11,Central,Kandy,Store,Small Business,Fashion,Backpack,1,7490,0,7490,3800,3690,Cash on Delivery,0,5,No,None
+LM26-0379,2026-06-07,Southern,Matara,Mobile App,Small Business,Fashion,Running Shoes,4,10990,0.1,39564,24400,15164,Cash on Delivery,7,4,No,App Exclusive
+LM26-0380,2026-05-03,Eastern,Batticaloa,Mobile App,Consumer,Beauty,Hair Dryer,2,7990,0.2,12784,9400,3384,Debit Card,6,4,No,App Exclusive
+LM26-0381,2026-02-03,Western,Colombo,Mobile App,Small Business,Electronics,Smart Watch,1,18990,0.1,17091,12688,4403,Digital Wallet,7,3,No,App Exclusive
+LM26-0382,2026-05-27,Central,Kandy,Store,Consumer,Home,Rice Cooker,4,13990,0,55960,37600,18360,Bank Transfer,0,5,No,None
+LM26-0383,2026-03-10,Central,Kandy,Online,Consumer,Beauty,Skin Care Set,2,8990,0.05,17081,8800,8281,Credit Card,6,,No,App Exclusive
+LM26-0384,2026-01-08,Southern,Hambantota,Mobile App,Consumer,Sports,Cricket Bat,1,12990,0.2,10392,7600,2792,Credit Card,6,4,No,Weekend Deal
+LM26-0385,2026-02-04,Northern,Kilinochchi,Mobile App,Consumer,Fashion,Running Shoes,1,10990,0.1,9891,6100,3791,Credit Card,2,5,No,New Year
+LM26-0386,2026-05-25,Central,Kandy,Store,Consumer,Fashion,Backpack,4,7490,0.15,25466,15200,10266,Credit Card,0,4,No,New Year
+LM26-0387,2026-04-02,Western,Colombo,Online,Consumer,Home,Air Fryer,3,24990,0,74970,53100,21870,Digital Wallet,1,5,No,None
+LM26-0388,2026-02-09,Western,Kalutara,Mobile App,Consumer,Sports,Dumbbell Set,1,15990,0,15990,9800,6190,Cash on Delivery,2,5,No,None
+LM26-0389,2026-03-22,Western,Negombo,Mobile App,Consumer,Beauty,Perfume,1,11990,0.1,10791,6900,3891,Credit Card,4,4,No,App Exclusive
+LM26-0390,2026-01-28,North Central,Anuradhapura,Mobile App,Small Business,Sports,Yoga Mat,3,4490,0,13470,6300,7170,Debit Card,2,5,No,None
+LM26-0391,2026-06-23,North Central,Anuradhapura,Mobile App,Consumer,Home,Rice Cooker,1,13990,0,13990,9400,4590,Bank Transfer,9,2,No,None
+LM26-0392,2026-02-02,Sabaragamuwa,Ratnapura,Store,Consumer,Sports,Yoga Mat,2,4490,0.1,8082,4200,3882,Debit Card,0,4,No,Weekend Deal
+LM26-0393,2026-06-14,Central,Kandy,Mobile App,Small Business,Fashion,Backpack,4,7490,0,29960,15200,14760,Debit Card,7,3,No,None
+LM26-0394,2026-03-11,Central,Nuwara Eliya,Store,Consumer,Home,Table Lamp,2,5990,0.05,11381,6300,5081,Cash on Delivery,0,5,No,Weekend Deal
+LM26-0395,2026-05-13,Western,Kalutara,Store,Consumer,Beauty,Skin Care Set,2,8990,0.2,14384,8800,5584,Credit Card,0,4,No,New Year
+LM26-0396,2026-02-20,Sabaragamuwa,Kegalle,Mobile App,Corporate,Electronics,Bluetooth Speaker,3,9990,0.1,26973,19344,7629,Credit Card,5,5,No,None
+LM26-0397,2026-06-23,Southern,Galle,Store,Consumer,Fashion,Backpack,1,7490,0.05,7116,3800,3316,Credit Card,0,5,No,Weekend Deal
+LM26-0398,2026-01-17,Central,Matale,Mobile App,Small Business,Home,Table Lamp,4,5990,0,23960,12600,11360,Bank Transfer,5,4,No,None
+LM26-0399,2026-02-09,Northern,Jaffna,Store,Small Business,Beauty,Perfume,2,11990,0.05,22781,13800,8981,Cash on Delivery,0,4,No,App Exclusive
+LM26-0400,2026-02-12,North Central,Anuradhapura,Store,Corporate,Beauty,Perfume,1,11990,0.2,9592,6900,2692,Bank Transfer,0,5,No,App Exclusive
+LM26-0401,2026-01-18,Eastern,Batticaloa,Store,Consumer,Home,Air Fryer,4,24990,0.15,84966,70800,14166,Credit Card,0,5,No,App Exclusive
+LM26-0402,2026-06-07,Western,Colombo,Online,Consumer,Fashion,Running Shoes,1,10990,0.1,9891,6100,3791,Credit Card,8,3,No,New Year
+LM26-0403,2026-04-18,Western,Negombo,Mobile App,Small Business,Electronics,Smart Watch,4,18990,0.2,60768,50752,10016,Bank Transfer,5,5,No,Weekend Deal
+LM26-0404,2026-05-10,Western,Kalutara,Mobile App,Consumer,Home,Rice Cooker,1,13990,0,13990,9400,4590,Digital Wallet,5,3,No,None
+LM26-0405,2026-06-05,Eastern,Trincomalee,Mobile App,Small Business,Home,Air Fryer,1,24990,0.15,21242,17700,3542,Debit Card,5,3,No,New Year
+LM26-0406,2026-01-22,Central,Nuwara Eliya,Online,Consumer,Sports,Dumbbell Set,2,15990,0.1,28782,19600,9182,Cash on Delivery,3,4,No,New Year
+LM26-0407,2026-05-07,Western,Colombo,Mobile App,Small Business,Sports,Dumbbell Set,4,15990,0,63960,39200,24760,Credit Card,1,4,No,None
+LM26-0408,2026-06-14,Central,Nuwara Eliya,Mobile App,Consumer,electronic,Backpack,2,7490,0,14980,7600,7380,Bank Transfer,2,5,No,None
+LM26-0409,2026-01-03,Central,Nuwara Eliya,Store,Consumer,Sports,Yoga Mat,1,4490,0.2,3592,2100,1492,Credit Card,0,5,No,New Year
+LM26-0410,2026-02-03,Southern,Matara,Mobile App,Consumer,Beauty,Perfume,1,11990,0.05,11391,6900,4491,Cash on Delivery,4,5,No,None
+LM26-0411,2026-03-09,North Western,Kurunegala,Online,Consumer,Fashion,Backpack,1,7490,0.15,6367,3800,2567,Credit Card,7,3,No,New Year
+LM26-0412,2026-02-14,Central,Kandy,Store,Corporate,Home,Air Fryer,3,24990,0.15000000000000002,63725,53100,10625,Debit Card,0,5,No,New Year
+LM26-0413,2026-02-16,Western,Negombo,Store,Consumer,Home,Air Fryer,2,24990,0.05,47481,35400,12081,Bank Transfer,0,5,No,None
+LM26-0414,2026-05-06,Central,Matale,Online,Consumer,Beauty,Hair Dryer,2,7990,0,15980,9400,6580,Cash on Delivery,8,3,No,None
+LM26-0415,2026-04-27,Eastern,Trincomalee,Online,Consumer,Beauty,Perfume,4,11990,0,47960,27600,20360,Bank Transfer,3,5,No,None
+LM26-0416,2026-04-25,Southern,Hambantota,Store,Small Business,Electronics,Bluetooth Speaker,1,9990,0.05,9491,6448,3043,Credit Card,0,,No,New Year
+LM26-0417,2026-01-25,Western,Colombo,Mobile App,Corporate,Beauty,Perfume,1,11990,0.05,11391,6900,4491,Cash on Delivery,2,5,No,None
+LM26-0418,2026-03-12,Western,Kalutara,Online,Consumer,Home,Air Fryer,3,24990,0.15,63725,53100,10625,Debit Card,8,4,No,Weekend Deal
+LM26-0419,2026-06-11,Central,Matale,Mobile App,Small Business,Home,Table Lamp,2,5990,0,11980,6300,5680,Debit Card,9,3,No,None
+LM26-0420,2026-03-01,Sabaragamuwa,Ratnapura,Store,Small Business,Beauty,Skin Care Set,2,8990,0.05,17081,8800,8281,Cash on Delivery,0,4,No,New Year
+LM26-0421,2026-01-22,Western,Negombo,Mobile App,Consumer,Fashion,Running Shoes,4,10990,0.1,39564,24400,15164,Cash on Delivery,5,5,No,Weekend Deal
+LM26-0422,2026-03-05,Western,Colombo,Online,Corporate,Electronics,Wireless Earbuds,4,12990,0.05,49362,34112,15250,Bank Transfer,4,4,No,None
+LM26-0423,2026-02-08,North Central,Polonnaruwa,Online,Consumer,Fashion,Casual Shirt,1,4990,0.15,4242,2250,1992,Debit Card,4,4,No,App Exclusive
+LM26-0424,2026-02-13,Southern,Galle,Store,Consumer,Electronics,Wireless Earbuds,4,12990,0,51960,34112,17848,Digital Wallet,0,3,Yes,None
+LM26-0425,2026-02-11,Western,Negombo,Mobile App,Consumer,Home,Rice Cooker,4,13990,0,55960,37600,18360,Cash on Delivery,8,3,No,None
+LM26-0426,2026-02-28,Central,Nuwara Eliya,Store,Consumer,Fashion,Running Shoes,2,10990,0.15,18683,12200,6483,Digital Wallet,0,5,No,App Exclusive
+LM26-0427,2026-02-09,Southern,Matara,Mobile App,Small Business,Fashion,Running Shoes,3,10990,0.05,31322,18300,13022,Credit Card,7,4,No,App Exclusive
+LM26-0428,2026-06-20,Southern,Galle,Online,Small Business,Fashion,Casual Shirt,4,4990,0,19960,9000,10960,Cash on Delivery,2,4,No,None
+LM26-0429,2026-06-28,Central,Nuwara Eliya,Mobile App,Consumer,Sports,Dumbbell Set,4,15990,0.05,60762,39200,21562,Debit Card,5,3,No,Weekend Deal
+LM26-0430,2026-03-29,Eastern,Trincomalee,Online,Small Business,Home,Rice Cooker,3,13990,0.15,35675,28200,7475,Debit Card,9,3,No,Weekend Deal
+LM26-0431,2026-03-06,North Central,Anuradhapura,Store,Consumer,Home,Air Fryer,1,24990,0.15,21242,17700,3542,Credit Card,0,4,No,New Year
+LM26-0432,2026-05-27,Southern,Matara,Online,Small Business,Sports,Cricket Bat,1,12990,0.1,11691,7600,4091,Digital Wallet,4,3,Yes,New Year
+LM26-0433,2026-05-29,Western,Negombo,Store,Consumer,Electronics,Bluetooth Speaker,1,9990,0.05,9491,6448,3043,Cash on Delivery,0,5,No,App Exclusive
+LM26-0434,2026-02-01,Southern,Matara,Store,Small Business,Beauty,Skin Care Set,2,8990,0.05,17081,8800,8281,Bank Transfer,0,5,No,App Exclusive
+LM26-0435,2026-03-10,Central,Nuwara Eliya,Online,Consumer,Beauty,Perfume,1,11990,0.15,10192,6900,3292,Bank Transfer,2,4,No,App Exclusive
+LM26-0436,2026-03-23,North Western,Puttalam,Online,Consumer,Home,Air Fryer,3,24990,0,74970,53100,21870,Credit Card,4,4,No,None
+LM26-0437,2026-06-10,Western,Kalutara,Store,Consumer,Sports,Cricket Bat,2,12990,0.05,24681,15200,9481,Bank Transfer,0,5,No,None
+LM26-0438,2026-03-25,Southern,Matara,Mobile App,Small Business,Beauty,Perfume,1,11990,0.05,11391,6900,4491,Digital Wallet,4,5,No,New Year
+LM26-0439,2026-05-10,Western,Colombo,Online,Small Business,Electronics,Bluetooth Speaker,4,9990,0.05,37962,25792,12170,Credit Card,7,3,No,None
+LM26-0440,2026-04-18,Uva,Monaragala,Store,Consumer,Fashion,Casual Shirt,1,4990,0.2,3992,2250,1742,Credit Card,0,5,No,App Exclusive
+LM26-0441,2026-06-15,Southern,Matara,Store,Consumer,Sports,Yoga Mat,1,4490,0,4490,2100,2390,Digital Wallet,0,5,No,None
+LM26-0442,2026-01-11,North Western,Kurunegala,Store,Consumer,Home,Table Lamp,2,5990,0,11980,6300,5680,Bank Transfer,0,5,No,None
+LM26-0443,2026-03-21,Northern,Jaffna,Mobile App,Small Business,Sports,Cricket Bat,4,12990,0.05,49362,30400,18962,Bank Transfer,8,3,No,New Year
+LM26-0444,2026-02-26,Sabaragamuwa,Kegalle,Online,Consumer,Electronics,Wireless Earbuds,4,12990,0.05,49362,34112,15250,Bank Transfer,7,4,No,None
+LM26-0445,2026-05-27,North Western,Kurunegala,Mobile App,Consumer,Home,Rice Cooker,4,13990,0.05,53162,37600,15562,Digital Wallet,5,4,No,Weekend Deal
+LM26-0446,2026-04-21,Southern,Hambantota,Mobile App,Corporate,Fashion,Backpack,1,7490,0.15000000000000002,6367,3800,2567,Digital Wallet,5,3,Yes,App Exclusive
+LM26-0447,2026-02-03,Central,Matale,Store,Small Business,Electronics,Bluetooth Speaker,1,9990,0.2,7992,6448,1544,Bank Transfer,0,4,No,App Exclusive
+LM26-0448,2026-02-17,Western,Negombo,Store,Small Business,Sports,Dumbbell Set,1,15990,0,15990,9800,6190,Debit Card,0,4,Yes,None
+LM26-0449,2026-06-21,Western,Kalutara,Mobile App,Small Business,Fashion,Casual Shirt,1,4990,0.05,4741,2250,2491,Debit Card,6,2,Yes,Weekend Deal
+LM26-0450,2026-02-11,Sabaragamuwa,Ratnapura,Mobile App,Consumer,Beauty,Perfume,1,11990,0.15,10192,6900,3292,Cash on Delivery,8,3,No,Weekend Deal
+LM26-0451,2026-01-26,Western,Negombo,Mobile App,Small Business,Beauty,Perfume,2,11990,0.15,20383,13800,6583,Debit Card,1,4,No,New Year
+LM26-0452,2026-02-15,Western,Negombo,Online,Small Business,Fashion,Running Shoes,3,10990,0.05,31322,18300,13022,Credit Card,6,4,No,None
+LM26-0453,2026-06-28,North Central,Anuradhapura,Online,Consumer,Electronics,Bluetooth Speaker,2,9990,0.2,15984,12896,3088,Digital Wallet,4,4,No,App Exclusive
+LM26-0454,2026-02-19,Uva,Badulla,Online,Consumer,Beauty,Skin Care Set,4,8990,0,35960,17600,18360,Digital Wallet,4,4,No,None
+LM26-0455,2026-05-17,Sabaragamuwa,Kegalle,Mobile App,Corporate,Fashion,Backpack,1,7490,0.15000000000000002,6367,3800,2567,Bank Transfer,8,4,No,Weekend Deal
+LM26-0456,2026-05-05,North Western,Kurunegala,Online,Consumer,Beauty,Hair Dryer,3,7990,0.05,22772,14100,8672,Credit Card,4,4,No,New Year
+LM26-0457,2026-02-04,Uva,Monaragala,Mobile App,Small Business,Fashion,Casual Shirt,2,4990,0,9980,4500,5480,Credit Card,8,3,No,None
+LM26-0458,2026-04-22,North Central,Polonnaruwa,Mobile App,Consumer,Home,Rice Cooker,4,13990,0,55960,37600,18360,Credit Card,6,4,No,None
+LM26-0459,2026-05-10,North Central,Anuradhapura,Store,Consumer,Sports,Cricket Bat,4,12990,0,51960,30400,21560,Cash on Delivery,0,4,Yes,None
+LM26-0460,2026-03-26,Sabaragamuwa,Ratnapura,Online,Consumer,Fashion,Casual Shirt,2,4990,0.05,9481,4500,4981,Credit Card,7,4,No,None
+LM26-0461,2026-06-21,Central,Nuwara Eliya,Mobile App,Consumer,Sports,Cricket Bat,4,12990,0.2,41568,30400,11168,Credit Card,2,4,No,Weekend Deal
+LM26-0462,2026-06-27,Western,Colombo,Store,Corporate,Electronics,Wireless Earbuds,2,12990,0.15000000000000002,22083,17056,5027,Debit Card,0,4,No,New Year
+LM26-0463,2026-04-13,Sabaragamuwa,Ratnapura,Online,Corporate,Fashion,Casual Shirt,1,4990,0.25,3743,2250,1493,Digital Wallet,8,3,No,Weekend Deal
+LM26-0464,2026-03-05,Southern,Hambantota,Store,Consumer,Beauty,Perfume,2,11990,0.1,21582,13800,7782,Digital Wallet,0,5,No,App Exclusive
+LM26-0465,2026-04-21,North Western,Kurunegala,Store,Corporate,Electronics,Wireless Earbuds,2,12990,0.05,24681,17056,7625,Cash on Delivery,0,5,No,None
+LM26-0466,2026-02-19,Central,Kandy,Mobile App,Corporate,Electronics,Smart Watch,2,18990,0.05,36081,25376,10705,Credit Card,5,4,No,None
+LM26-0467,2026-05-25,Southern,Hambantota,Mobile App,Consumer,Sports,Dumbbell Set,2,15990,0,31980,19600,12380,Cash on Delivery,3,5,No,None
+LM26-0468,2026-03-06,Western,Negombo,Store,Consumer,Sports,Yoga Mat,2,4490,0.2,7184,4200,2984,Credit Card,0,5,No,New Year
+LM26-0469,2026-02-13,Western,Colombo,Mobile App,Consumer,Electronics,Bluetooth Speaker,2,9990,0,19980,12896,7084,Debit Card,7,4,No,None
+LM26-0470,2026-04-26,Sabaragamuwa,Kegalle,Mobile App,Consumer,Electronics,Wireless Earbuds,1,12990,0.05,12341,8528,3813,Cash on Delivery,2,5,No,New Year
+LM26-0471,2026-01-23,Western,Colombo,Store,Small Business,Sports,Yoga Mat,4,4490,0.1,16164,8400,7764,Bank Transfer,0,5,No,Weekend Deal
+LM26-0472,2026-03-22,North Central,Polonnaruwa,Store,Consumer,Home,Rice Cooker,4,13990,0.05,53162,37600,15562,Debit Card,0,4,No,App Exclusive
+LM26-0473,2026-06-30,Uva,Monaragala,Mobile App,Small Business,Home,Table Lamp,1,5990,0,5990,3150,2840,Credit Card,6,4,No,None
+LM26-0474,2026-03-09,Central,Nuwara Eliya,Mobile App,Consumer,Fashion,Backpack,4,7490,0.1,26964,15200,11764,Digital Wallet,7,3,No,Weekend Deal
+LM26-0475,2026-05-13,Western,Negombo,Mobile App,Corporate,Home,Air Fryer,4,24990,0.2,79968,70800,9168,Digital Wallet,3,4,No,Weekend Deal
+LM26-0476,2026-01-01,Western,Kalutara,Store,Small Business,Electronics,Smart Watch,1,18990,0.2,15192,12688,2504,Debit Card,0,5,No,New Year
+LM26-0477,2026-04-28,Western,Kalutara,Online,Consumer,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Credit Card,6,4,No,App Exclusive
+LM26-0478,2026-01-11,Western,Kalutara,Mobile App,Consumer,Beauty,Hair Dryer,4,7990,0.05,30362,18800,11562,Digital Wallet,7,4,No,App Exclusive
+LM26-0479,2026-05-11,Western,Negombo,Mobile App,Consumer,Home,Table Lamp,2,5990,0.1,10782,6300,4482,Bank Transfer,6,3,No,Weekend Deal
+LM26-0480,2026-02-17,Southern,Matara,Mobile App,Consumer,Electronics,Smart Watch,1,18990,0,18990,12688,6302,Debit Card,5,4,No,None
+LM26-0481,2026-04-28,Uva,Badulla,Store,Corporate,Fashion,Casual Shirt,1,4990,0.05,4741,2250,2491,Bank Transfer,0,5,No,None
+LM26-0482,2026-04-08,Southern,Hambantota,Online,Small Business,Home,Air Fryer,1,24990,0.2,19992,17700,2292,Debit Card,3,4,No,App Exclusive
+LM26-0483,2026-01-25,Western,Kalutara,Store,Consumer,Beauty,Hair Dryer,1,7990,0.05,7591,4700,2891,Credit Card,0,5,No,Weekend Deal
+LM26-0484,2026-03-21,Central,Kandy,Mobile App,Small Business,Electronics,Bluetooth Speaker,4,9990,0.2,31968,25792,6176,Credit Card,2,5,No,Weekend Deal
+LM26-0485,2026-03-23,Southern,Hambantota,Store,Consumer,Electronics,Smart Watch,3,18990,0.1,51273,38064,13209,Debit Card,0,4,No,Weekend Deal
+LM26-0486,2026-01-15,Northern,Jaffna,Online,Small Business,Beauty,Hair Dryer,1,7990,0.1,7191,4700,2491,Cash on Delivery,4,4,No,App Exclusive
+LM26-0487,2026-01-26,Uva,Monaragala,Mobile App,Corporate,Electronics,Wireless Earbuds,4,12990,0.1,46764,34112,12652,Credit Card,8,2,No,Weekend Deal
+LM26-0488,2026-04-01,Western,Negombo,Online,Consumer,Fashion,Backpack,3,7490,0.05,21347,11400,9947,Credit Card,4,4,No,None
+LM26-0489,2026-06-30,Northern,Kilinochchi,Store,Consumer,Electronics,Bluetooth Speaker,1,9990,0.1,8991,6448,2543,Debit Card,0,5,No,App Exclusive
+LM26-0490,2026-04-11,Eastern,Batticaloa,Store,Consumer,Sports,Dumbbell Set,1,15990,0.2,12792,9800,2992,Debit Card,0,5,No,New Year
+LM26-0491,2026-02-02,Central,Matale,Online,Small Business,Home,Air Fryer,1,24990,0.05,23741,17700,6041,Credit Card,9,4,No,Weekend Deal
+LM26-0492,2026-01-23,Central,Matale,Store,Consumer,Electronics,Smart Watch,1,18990,0.05,18041,12688,5353,Credit Card,0,5,No,None
+LM26-0493,2026-01-11,Western,Negombo,Mobile App,Corporate,Sports,Dumbbell Set,2,15990,0.25,23985,19600,4385,Debit Card,2,5,No,App Exclusive
+LM26-0494,2026-04-19,North Western,Puttalam,Store,Consumer,Sports,Dumbbell Set,2,15990,0.15,27183,19600,7583,Debit Card,0,5,No,Weekend Deal
+LM26-0495,2026-01-25,Southern,Matara,Mobile App,Consumer,Sports,Yoga Mat,1,4490,0.05,4266,2100,2166,Debit Card,4,4,No,None
+LM26-0496,2026-01-04,Southern,Hambantota,Online,Corporate,Beauty,Skin Care Set,2,8990,0.05,17081,8800,8281,Debit Card,9,3,No,None
+LM26-0497,2026-04-08,Western,Kalutara,Mobile App,Consumer,Beauty,Skin Care Set,2,8990,0,17980,8800,9180,Digital Wallet,8,3,No,None
+LM26-0498,2026-05-26,Northern,Kilinochchi,Online,Consumer,Home,Rice Cooker,4,13990,0,55960,37600,18360,Bank Transfer,6,4,No,None
+LM26-0499,2026-06-18,Western,Colombo,Mobile App,Consumer,Home,Rice Cooker,4,13990,0,55960,37600,18360,Cash on Delivery,7,4,No,None
+LM26-0500,2026-04-03,Sabaragamuwa,Kegalle,Mobile App,Consumer,Electronics,Wireless Earbuds,1,12990,0.05,12341,8528,3813,Debit Card,7,4,No,Weekend Deal
+LM26-0501,2026-03-24,Eastern,Batticaloa,Store,Consumer,Beauty,Skin Care Set,3,8990,0,26970,13200,13770,Credit Card,0,4,No,None
+LM26-0502,2026-05-20,North Central,Polonnaruwa,Store,Consumer,Fashion,Casual Shirt,1,4990,0,4990,2250,2740,Bank Transfer,0,5,No,None
+LM26-0503,2026-06-20,Western,Colombo,Mobile App,Corporate,Home,Air Fryer,2,24990,0.25,37485,35400,2085,Bank Transfer,2,4,No,App Exclusive
+LM26-0504,2026-06-21,North Central,Polonnaruwa,Online,Consumer,Electronics,Smart Watch,4,18990,0.05,72162,50752,21410,Bank Transfer,2,4,No,Weekend Deal
+LM26-0505,2026-06-16,North Western,Puttalam,Online,Corporate,Home,Table Lamp,2,5990,0.1,10782,6300,4482,Credit Card,5,4,No,Weekend Deal
+LM26-0506,2026-02-24,Western,Negombo,Online,Consumer,Sports,Yoga Mat,2,4490,0.05,8531,4200,4331,Credit Card,3,5,No,None
+LM26-0507,2026-05-08,North Western,Puttalam,Store,Corporate,Home,Table Lamp,1,5990,0.1,5391,3150,2241,Digital Wallet,0,5,No,None
+LM26-0508,2026-06-10,North Western,Kurunegala,Mobile App,Consumer,Fashion,Running Shoes,4,10990,0.2,35168,24400,10768,Digital Wallet,6,3,No,New Year
+LM26-0509,2026-06-12,Western,Kalutara,Online,Corporate,Fashion,Running Shoes,2,10990,0.25,16485,12200,4285,Cash on Delivery,2,5,No,App Exclusive
+LM26-0510,2026-01-21,Southern,Galle,Store,Small Business,Home,Table Lamp,3,5990,0.2,14376,9450,4926,Credit Card,0,5,No,App Exclusive
+LM26-0511,2026-05-20,Western,Negombo,Store,Consumer,Sports,Cricket Bat,3,12990,0,38970,22800,16170,Debit Card,0,,No,None
+LM26-0512,2026-03-05,Sabaragamuwa,Kegalle,Mobile App,Consumer,Sports,Yoga Mat,2,4490,0.15,7633,4200,3433,Cash on Delivery,8,4,No,Weekend Deal
+LM26-0513,2026-02-04,Sabaragamuwa,Ratnapura,Mobile App,Consumer,Beauty,Hair Dryer,3,7990,0.1,21573,14100,7473,Bank Transfer,5,4,No,New Year
+LM26-0514,2026-06-01,Sabaragamuwa,Kegalle,Online,Consumer,Sports,Cricket Bat,1,12990,0.15,11042,7600,3442,Bank Transfer,4,4,No,New Year
+LM26-0515,2026-01-28,Uva,Monaragala,Mobile App,Consumer,Electronics,Smart Watch,1,18990,0,18990,12688,6302,Digital Wallet,3,5,No,None
+LM26-0516,2026-05-29,Western,Colombo,Mobile App,Consumer,Beauty,Perfume,1,11990,0.1,10791,6900,3891,Digital Wallet,4,4,No,App Exclusive
+LM26-0517,2026-05-29,North Central,Anuradhapura,Online,Consumer,Fashion,Casual Shirt,2,4990,0,9980,4500,5480,Cash on Delivery,2,5,No,None
+LM26-0518,2026-04-18,Western,Kalutara,Online,Consumer,Beauty,Perfume,2,11990,0.05,22781,13800,8981,Debit Card,7,4,No,None
+LM26-0519,2026-03-22,Western,Negombo,Mobile App,Consumer,Electronics,Bluetooth Speaker,4,9990,0.1,35964,25792,10172,Debit Card,1,5,No,Weekend Deal
+LM26-0520,2026-03-21,Northern,Kilinochchi,Mobile App,Consumer,Beauty,Skin Care Set,2,8990,0.05,17081,8800,8281,Debit Card,5,4,No,App Exclusive
+LM26-0521,2026-02-27,Southern,Hambantota,Online,Consumer,Home,Table Lamp,4,5990,0,23960,12600,11360,Digital Wallet,6,4,No,None
+LM26-0522,2026-05-28,North Central,Polonnaruwa,Online,Consumer,Home,Rice Cooker,2,13990,0.1,25182,18800,6382,Bank Transfer,5,4,No,New Year
+LM26-0523,2026-05-31,Western,Negombo,Mobile App,Consumer,Sports,Yoga Mat,4,4490,0.05,17062,8400,8662,Cash on Delivery,4,5,No,None
+LM26-0524,2026-05-27,Western,Negombo,Store,Consumer,Fashion,Running Shoes,2,10990,0.05,20881,12200,8681,Credit Card,0,5,No,Weekend Deal
+LM26-0525,2026-02-25,Uva,Badulla,Online,Consumer,Home,Air Fryer,2,24990,0.05,47481,35400,12081,Cash on Delivery,9,4,No,None
+LM26-0526,2026-04-23,Eastern,Trincomalee,Store,Small Business,Beauty,Perfume,3,11990,0.05,34172,20700,13472,Credit Card,0,5,No,None
+LM26-0527,2026-01-01,Northern,Kilinochchi,Mobile App,Corporate,Beauty,Perfume,2,11990,0.05,22781,13800,8981,Bank Transfer,8,3,No,None
+LM26-0528,2026-03-02,Western,Negombo,Store,Corporate,Beauty,Hair Dryer,2,7990,0.1,14382,9400,4982,Debit Card,0,5,No,Weekend Deal
+LM26-0529,2026-01-15,Uva,Monaragala,Mobile App,Consumer,Fashion,Backpack,2,7490,0.2,11984,7600,4384,Debit Card,2,5,No,Weekend Deal
+LM26-0530,2026-01-05,Central,Matale,Online,Consumer,Electronics,Smart Watch,1,18990,0.2,15192,12688,2504,Bank Transfer,6,4,No,New Year
+LM26-0531,2026-01-09,Uva,Badulla,Store,Consumer,Sports,Yoga Mat,1,4490,0.15,3817,2100,1717,Credit Card,0,4,No,New Year
+LM26-0532,2026-02-11,North Western,Puttalam,Store,Consumer,Fashion,Running Shoes,4,10990,0,43960,24400,19560,Bank Transfer,0,5,No,None
+LM26-0533,2026-02-17,North Central,Anuradhapura,Mobile App,Consumer,Beauty,Skin Care Set,3,8990,0.2,21576,13200,8376,Credit Card,9,2,No,Weekend Deal
+LM26-0534,2026-02-13,Western,Kalutara,Store,Consumer,Sports,Dumbbell Set,1,15990,0,15990,9800,6190,Bank Transfer,0,5,No,None
+LM26-0535,2026-02-07,Northern,Kilinochchi,Mobile App,Consumer,Electronics,Bluetooth Speaker,1,9990,0.05,9491,6448,3043,Cash on Delivery,7,3,No,Weekend Deal
+LM26-0536,2026-05-25,Western,Kalutara,Online,Small Business,Fashion,Casual Shirt,3,4990,0.2,11976,6750,5226,Cash on Delivery,1,5,No,Weekend Deal
+LM26-0537,2026-05-09,Western,Kalutara,Online,Consumer,Sports,Yoga Mat,3,4490,0.1,12123,6300,5823,Bank Transfer,2,4,No,New Year
+LM26-0538,2026-01-18,Central,Nuwara Eliya,Store,Corporate,Home,Air Fryer,3,24990,0.25,56228,53100,3128,Digital Wallet,0,5,No,New Year
+LM26-0539,2026-03-02,Western,Colombo,Mobile App,Consumer,Electronics,Smart Watch,3,18990,0.1,51273,38064,13209,Cash on Delivery,8,3,No,Weekend Deal
+LM26-0540,2026-05-29,Western,Colombo,Online,Consumer,Beauty,Perfume,1,11990,0.1,10791,6900,3891,Credit Card,3,5,No,New Year
+LM26-0541,2026-06-20,North Central,Polonnaruwa,Mobile App,Small Business,Electronics,Wireless Earbuds,3,12990,0.15,33125,25584,7541,Debit Card,2,4,Yes,App Exclusive
+LM26-0542,2026-01-11,Southern,Hambantota,Online,Corporate,Sports,Yoga Mat,3,4490,0.1,12123,6300,5823,Bank Transfer,4,4,No,None
+LM26-0543,2026-03-26,North Western,Kurunegala,Mobile App,Consumer,Home,Air Fryer,2,24990,0.15,42483,35400,7083,Digital Wallet,4,3,No,New Year
+LM26-0544,2026-06-27,Western,Colombo,Store,Consumer,Beauty,Skin Care Set,2,8990,0.2,14384,8800,5584,Bank Transfer,0,4,No,New Year
+LM26-0545,2026-02-06,North Central,Anuradhapura,Mobile App,Consumer,Sports,Dumbbell Set,1,15990,0,15990,9800,6190,Credit Card,8,3,No,None
+LM26-0546,2026-04-01,Western,Negombo,Store,Consumer,Electronics,Bluetooth Speaker,4,9990,0.15,33966,25792,8174,Credit Card,0,5,No,New Year
+LM26-0547,2026-01-26,North Western,Puttalam,Mobile App,Consumer,Beauty,Skin Care Set,1,8990,0.2,7192,4400,2792,Bank Transfer,2,5,No,App Exclusive
+LM26-0548,2026-03-28,Northern,Kilinochchi,Mobile App,Consumer,Sports,Yoga Mat,2,4490,0.05,8531,4200,4331,Credit Card,6,3,No,None
+LM26-0549,2026-05-05,North Western,Puttalam,Online,Corporate,Electronics,Wireless Earbuds,1,12990,0.25,9743,8528,1215,Bank Transfer,4,4,No,Weekend Deal
+LM26-0550,2026-03-21,Southern,Hambantota,Online,Consumer,Electronics,Smart Watch,4,18990,0.05,72162,50752,21410,Bank Transfer,2,5,No,New Year
+LM26-0551,2026-05-30,North Western,Puttalam,Mobile App,Consumer,Fashion,Backpack,2,7490,0,14980,7600,7380,Cash on Delivery,3,5,No,None
+LM26-0552,2026-03-06,North Central,Anuradhapura,Store,Corporate,Sports,Cricket Bat,2,12990,0.1,23382,15200,8182,Debit Card,0,5,No,Weekend Deal
+LM26-0553,2026-03-29,Western,Kalutara,Mobile App,Consumer,Sports,Dumbbell Set,3,15990,0.2,38376,29400,8976,Credit Card,8,3,No,Weekend Deal
+LM26-0554,2026-03-07,Southern,Hambantota,Store,Consumer,Fashion,Casual Shirt,3,4990,0.05,14222,6750,7472,Cash on Delivery,0,5,No,App Exclusive
+LM26-0555,2026-03-28,Southern,Galle,Online,Corporate,Home,Rice Cooker,3,13990,0.1,37773,28200,9573,Cash on Delivery,9,4,No,None
+LM26-0556,2026-05-06,Northern,Jaffna,Mobile App,Corporate,Beauty,Hair Dryer,1,7990,0.2,6392,4700,1692,Cash on Delivery,9,4,No,Weekend Deal
+LM26-0557,2026-06-07,Sabaragamuwa,Ratnapura,Store,Small Business,Beauty,Perfume,3,11990,0.2,28776,20700,8076,Cash on Delivery,0,5,No,Weekend Deal
+LM26-0558,2026-05-14,Central,Matale,Store,Corporate,Home,Table Lamp,1,5990,0.05,5691,3150,2541,Digital Wallet,0,5,No,None
+LM26-0559,2026-04-22,Sabaragamuwa,Ratnapura,Mobile App,Consumer,Home,Table Lamp,1,5990,0.05,5691,3150,2541,Cash on Delivery,2,,No,Weekend Deal
+LM26-0560,2026-06-13,Western,Colombo,Store,Corporate,Beauty,Perfume,4,11990,0.15000000000000002,40766,27600,13166,Bank Transfer,0,,No,Weekend Deal
+LM26-0561,2026-03-04,Central,Matale,Online,Small Business,Electronics,Wireless Earbuds,3,12990,0.15,33125,25584,7541,Debit Card,3,5,No,App Exclusive
+LM26-0562,2026-05-26,Central,Nuwara Eliya,Mobile App,Consumer,Electronics,Bluetooth Speaker,3,9990,0,29970,19344,10626,Cash on Delivery,7,3,No,None
+LM26-0563,2026-06-17,North Central,Anuradhapura,Online,Small Business,Electronics,Wireless Earbuds,3,12990,0,38970,25584,13386,Digital Wallet,5,3,No,None
+LM26-0564,2026-06-16,Uva,Badulla,Mobile App,Consumer,Fashion,Backpack,4,7490,0.05,28462,15200,13262,Digital Wallet,5,4,No,New Year
+LM26-0565,2026-03-03,North Western,Kurunegala,Online,Consumer,Electronics,Smart Watch,4,18990,0.2,60768,50752,10016,Bank Transfer,6,3,No,Weekend Deal
+LM26-0566,2026-01-13,Western,Colombo,Mobile App,Consumer,Fashion,Backpack,2,7490,0.05,14231,7600,6631,Digital Wallet,3,5,No,None
+LM26-0567,2026-01-04,Northern,Jaffna,Mobile App,Corporate,Sports,Yoga Mat,4,4490,0.1,16164,8400,7764,Debit Card,7,4,No,None
+LM26-0568,2026-06-21,North Central,Polonnaruwa,Mobile App,Consumer,Home,Rice Cooker,3,13990,0.1,37773,28200,9573,Credit Card,2,5,No,Weekend Deal
+LM26-0569,2026-01-22,Central,Kandy,Store,Consumer,Beauty,Skin Care Set,4,8990,0,35960,17600,18360,Debit Card,0,5,No,None
+LM26-0570,2026-02-21,Southern,Galle,Mobile App,Consumer,Beauty,Skin Care Set,2,8990,0.1,16182,8800,7382,Debit Card,8,3,No,Weekend Deal
+LM26-0571,2026-01-07,Eastern,Batticaloa,Mobile App,Consumer,Home,Rice Cooker,3,13990,0.15,35675,28200,7475,Cash on Delivery,4,5,No,Weekend Deal
+LM26-0572,2026-02-16,Northern,Kilinochchi,Online,Consumer,Fashion,Backpack,4,7490,0.15,25466,15200,10266,Digital Wallet,2,5,No,New Year
+LM26-0573,2026-01-22,Southern,Hambantota,Store,Corporate,Beauty,Hair Dryer,2,7990,0.2,12784,9400,3384,Digital Wallet,0,5,No,Weekend Deal
+LM26-0574,2026-05-16,Central,Kandy,Mobile App,Consumer,Electronics,Wireless Earbuds,1,12990,0.1,11691,8528,3163,Bank Transfer,3,5,No,App Exclusive
+LM26-0575,2026-04-27,Southern,Hambantota,Store,Consumer,Electronics,Bluetooth Speaker,1,9990,0.15,8492,6448,2044,Cash on Delivery,0,5,No,App Exclusive
+LM26-0576,2026-03-07,Western,Kalutara,Store,Corporate,Sports,Yoga Mat,1,4490,0.1,4041,2100,1941,Bank Transfer,0,5,No,None
+LM26-0577,2026-01-26,North Central,Polonnaruwa,Online,Consumer,Electronics,Smart Watch,2,18990,0,37980,25376,12604,Credit Card,7,3,No,None
+LM26-0578,2026-05-17,Central,Matale,Mobile App,Small Business,Sports,Cricket Bat,1,12990,0.05,12341,7600,4741,Debit Card,7,4,No,None
+LM26-0579,2026-06-22,Central,Matale,Online,Consumer,Beauty,Skin Care Set,4,8990,0.05,34162,17600,16562,Credit Card,8,3,No,Weekend Deal
+LM26-0580,2026-03-31,Southern,Matara,Store,Consumer,Fashion,Casual Shirt,1,4990,0,4990,2250,2740,Credit Card,0,5,No,None
+LM26-0581,2026-01-30,Northern,Kilinochchi,Online,Consumer,Sports,Dumbbell Set,2,15990,0.05,30381,19600,10781,Debit Card,7,4,No,None
+LM26-0582,2026-03-05,Western,Negombo,Mobile App,Consumer,Sports,Cricket Bat,1,12990,0.05,12341,7600,4741,Credit Card,6,,No,App Exclusive
+LM26-0583,2026-03-28,Western,Negombo,Online,Consumer,Fashion,Running Shoes,1,10990,0.05,10441,6100,4341,Debit Card,7,4,No,None
+LM26-0584,2026-06-03,North Western,Kurunegala,Store,Consumer,Sports,Cricket Bat,1,12990,0.05,12341,7600,4741,Cash on Delivery,0,5,No,App Exclusive
+LM26-0585,2026-06-07,Southern,Matara,Store,Consumer,Beauty,Perfume,3,11990,0,35970,20700,15270,Bank Transfer,0,5,No,None
+LM26-0586,2026-01-09,Central,Kandy,Online,Consumer,Home,Air Fryer,4,24990,0.1,89964,70800,19164,Credit Card,7,3,No,New Year
+LM26-0587,2026-02-12,Southern,Matara,Store,Corporate,Home,Table Lamp,1,5990,0.1,5391,3150,2241,Bank Transfer,0,5,No,App Exclusive
+LM26-0588,2026-04-28,Western,Kalutara,Mobile App,Consumer,Electronics,Smart Watch,3,18990,0,56970,38064,18906,Cash on Delivery,2,5,No,None
+LM26-0589,2026-05-12,Western,Colombo,Online,Consumer,Electronics,Bluetooth Speaker,3,9990,0.05,28472,19344,9128,Digital Wallet,3,4,Yes,Weekend Deal
+LM26-0590,2026-06-07,Central,Matale,Mobile App,Consumer,Beauty,Skin Care Set,4,8990,0,35960,17600,18360,Debit Card,2,4,No,None
+LM26-0591,2026-01-17,Sabaragamuwa,Ratnapura,Store,Consumer,Beauty,Perfume,4,11990,0,47960,27600,20360,Cash on Delivery,0,5,No,None
+LM26-0592,2026-01-14,Uva,Badulla,Online,Consumer,Beauty,Skin Care Set,4,8990,0.1,32364,17600,14764,Digital Wallet,5,,No,New Year
+LM26-0593,2026-05-15,Central,Kandy,Store,Consumer,Sports,Dumbbell Set,3,15990,0.1,43173,29400,13773,Cash on Delivery,0,5,No,App Exclusive
+LM26-0594,2026-04-17,Western,Kalutara,Mobile App,Small Business,Home,Rice Cooker,4,13990,0.2,44768,37600,7168,Cash on Delivery,3,5,No,New Year
+LM26-0595,2026-05-27,Sabaragamuwa,Kegalle,Online,Small Business,Fashion,Backpack,1,7490,0.15,6367,3800,2567,Credit Card,3,,No,Weekend Deal
+LM26-0596,2026-01-21,Eastern,Trincomalee,Mobile App,Corporate,Beauty,Skin Care Set,4,8990,0.05,34162,17600,16562,Credit Card,5,4,No,None
+LM26-0597,2026-01-23,Sabaragamuwa,Kegalle,Mobile App,Consumer,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Debit Card,5,,No,App Exclusive
+LM26-0598,2026-01-28,Western,Negombo,Online,Consumer,Beauty,Perfume,2,11990,0.1,21582,13800,7782,Bank Transfer,1,5,No,New Year
+LM26-0599,2026-05-15,Southern,Hambantota,Mobile App,Consumer,Electronics,Wireless Earbuds,4,12990,0,51960,34112,17848,Digital Wallet,9,4,No,None
+LM26-0600,2026-06-04,North Central,Anuradhapura,Online,Consumer,Fashion,Casual Shirt,4,4990,0.15,16966,9000,7966,Credit Card,6,4,No,New Year
+LM26-0601,2026-05-30,Western,Colombo,Store,Consumer,Beauty,Hair Dryer,4,7990,0.2,25568,18800,6768,Digital Wallet,0,5,No,New Year
+LM26-0602,2026-03-16,Western,Colombo,Online,Consumer,Fashion,Backpack,4,7490,0.1,26964,15200,11764,Debit Card,8,3,No,Weekend Deal
+LM26-0603,2026-03-13,Western,Colombo,Online,Consumer,Electronics,Wireless Earbuds,4,12990,0.15,44166,34112,10054,Debit Card,2,4,Yes,App Exclusive
+LM26-0604,2026-04-05,Western,Negombo,Mobile App,Corporate,Fashion,Casual Shirt,1,4990,0.25,3743,2250,1493,Digital Wallet,5,4,No,Weekend Deal
+LM26-0605,2026-02-27,Eastern,Batticaloa,Mobile App,Corporate,Beauty,Perfume,3,11990,0.1,32373,20700,11673,Cash on Delivery,6,3,No,None
+LM26-0606,2026-01-18,Southern,Galle,Mobile App,Consumer,Home,Table Lamp,1,5990,0.05,5691,3150,2541,Bank Transfer,3,5,No,None
+LM26-0607,2026-06-10,North Central,Polonnaruwa,Online,Small Business,Beauty,Perfume,1,11990,0.05,11391,6900,4491,Cash on Delivery,6,4,No,New Year
+LM26-0608,2026-02-05,Central,Matale,Store,Small Business,Beauty,Skin Care Set,2,8990,0.2,14384,8800,5584,Bank Transfer,0,5,No,New Year
+LM26-0609,2026-04-14,North Western,Kurunegala,Online,Consumer,Fashion,Backpack,1,7490,0.15,6367,3800,2567,Credit Card,6,4,No,App Exclusive
+LM26-0610,2026-06-24,Western,Kalutara,Online,Consumer,Sports,Yoga Mat,2,4490,0,8980,4200,4780,Cash on Delivery,4,5,No,None
+LM26-0611,2026-05-23,Western,Negombo,Mobile App,Consumer,Beauty,Perfume,1,11990,0.05,11391,6900,4491,Debit Card,3,4,No,App Exclusive
+LM26-0612,2026-01-17,Northern,Jaffna,Store,Consumer,Home,Air Fryer,1,24990,0.15,21242,17700,3542,Credit Card,0,4,No,Weekend Deal
+LM26-0613,2026-02-17,Central,Matale,Online,Consumer,Fashion,Backpack,3,7490,0.05,21347,11400,9947,Cash on Delivery,8,4,No,None
+LM26-0614,2026-05-15,Western,Colombo,Online,Corporate,Beauty,Perfume,4,11990,0.05,45562,27600,17962,Credit Card,1,5,No,None
+LM26-0615,2026-06-15,Central,Matale,Online,Small Business,Beauty,Perfume,4,11990,0.15,40766,27600,13166,Credit Card,3,,Yes,App Exclusive
+LM26-0616,2026-01-10,Northern,Kilinochchi,Store,Consumer,Sports,Dumbbell Set,3,15990,0.05,45572,29400,16172,Bank Transfer,0,5,No,App Exclusive
+LM26-0617,2026-06-07,Central,Kandy,Online,Corporate,Beauty,Skin Care Set,4,8990,0.05,34162,17600,16562,Bank Transfer,4,5,No,None
+LM26-0618,2026-03-20,North Western,Kurunegala,Online,Consumer,Fashion,Running Shoes,3,10990,0.05,31322,18300,13022,Cash on Delivery,4,4,No,New Year
+LM26-0619,2026-05-24,Southern,Galle,Online,Corporate,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Cash on Delivery,3,4,No,None
+LM26-0620,2026-04-30,North Western,Kurunegala,Online,Small Business,Beauty,Perfume,4,11990,0.2,38368,27600,10768,Debit Card,4,3,No,App Exclusive
+LM26-0621,2026-05-16,Southern,Matara,Online,Consumer,Beauty,Perfume,1,11990,0.05,11391,6900,4491,Cash on Delivery,8,3,No,None
+LM26-0622,2026-04-15,Uva,Monaragala,Mobile App,Consumer,Fashion,Casual Shirt,2,4990,0.1,8982,4500,4482,Digital Wallet,2,4,No,App Exclusive
+LM26-0623,2026-06-12,Western,Colombo,Online,Consumer,Beauty,Hair Dryer,1,7990,0.05,7591,4700,2891,Digital Wallet,4,3,No,New Year
+LM26-0624,2026-06-15,Sabaragamuwa,Ratnapura,Mobile App,Consumer,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Bank Transfer,6,3,No,None
+LM26-0625,2026-01-22,Eastern,Trincomalee,Store,Consumer,Fashion,Casual Shirt,2,4990,0.1,8982,4500,4482,Cash on Delivery,0,5,No,App Exclusive
+LM26-0626,2026-05-16,Western,Colombo,Online,Consumer,Fashion,Backpack,4,7490,0.15,25466,15200,10266,Debit Card,6,3,No,App Exclusive
+LM26-0627,2026-03-18,Western,Negombo,Online,Consumer,Home,Rice Cooker,1,13990,0.05,13291,9400,3891,Bank Transfer,1,5,No,Weekend Deal
+LM26-0628,2026-05-31,Southern,Hambantota,Mobile App,Consumer,Sports,Yoga Mat,3,4490,0.15,11450,6300,5150,Bank Transfer,8,3,No,New Year
+LM26-0629,2026-05-29,Western,Kalutara,Online,Small Business,Home,Rice Cooker,4,13990,0.05,53162,37600,15562,Bank Transfer,1,4,No,None
+LM26-0630,2026-06-26,Sabaragamuwa,Kegalle,Store,Consumer,Beauty,Hair Dryer,3,7990,0,23970,14100,9870,Cash on Delivery,0,4,No,None
+LM26-0631,2026-05-08,Western,Negombo,Online,Small Business,Electronics,Wireless Earbuds,3,12990,0,38970,25584,13386,Debit Card,5,4,No,None
+LM26-0632,2026-06-20,North Central,Polonnaruwa,Store,Consumer,Home,Air Fryer,3,24990,0.05,71222,53100,18122,Credit Card,0,5,No,New Year
+LM26-0633,2026-02-21,Western,Negombo,Mobile App,Consumer,Home,Air Fryer,3,24990,0.2,59976,53100,6876,Credit Card,4,5,No,App Exclusive
+LM26-0634,2026-05-02,North Central,Polonnaruwa,Online,Consumer,Electronics,Wireless Earbuds,3,12990,0.05,37022,25584,11438,Credit Card,7,,No,New Year
+LM26-0635,2026-05-31,Central,Nuwara Eliya,Store,Consumer,Sports,Yoga Mat,4,4490,0.1,16164,8400,7764,Credit Card,0,5,No,App Exclusive
+LM26-0636,2026-03-18,North Western,Puttalam,Store,Corporate,Fashion,Running Shoes,1,10990,0.2,8792,6100,2692,Credit Card,0,5,No,New Year
+LM26-0637,2026-03-29,Southern,Hambantota,Online,Consumer,Electronics,Bluetooth Speaker,4,9990,0.2,31968,25792,6176,Bank Transfer,9,3,No,App Exclusive
+LM26-0638,2026-06-10,Central,Matale,Store,Small Business,Electronics,Wireless Earbuds,1,12990,0.05,12341,8528,3813,Cash on Delivery,0,5,No,New Year
+LM26-0639,2026-03-22,North Central,Polonnaruwa,Online,Corporate,Electronics,Bluetooth Speaker,2,9990,0.15000000000000002,16983,12896,4087,Bank Transfer,5,3,No,New Year
+LM26-0640,2026-03-31,North Central,Anuradhapura,Store,Consumer,Electronics,Bluetooth Speaker,1,9990,0.1,8991,6448,2543,Digital Wallet,0,4,No,App Exclusive
+LM26-0641,2026-05-15,North Central,Anuradhapura,Mobile App,Consumer,Electronics,Wireless Earbuds,1,12990,0.1,11691,8528,3163,Credit Card,2,4,Yes,Weekend Deal
+LM26-0642,2026-04-19,Central,Kandy,Online,Small Business,Electronics,Bluetooth Speaker,4,9990,0.1,35964,25792,10172,Debit Card,8,2,Yes,New Year
+LM26-0643,2026-02-11,Western,Kalutara,Store,Consumer,Fashion,Running Shoes,1,10990,0,10990,6100,4890,Cash on Delivery,0,5,No,None
+LM26-0644,2026-03-16,Western,Colombo,Mobile App,Corporate,Electronics,Wireless Earbuds,2,12990,0.25,19485,17056,2429,Cash on Delivery,6,4,No,Weekend Deal
+LM26-0645,2026-04-02,Southern,Galle,Online,Corporate,Sports,Cricket Bat,2,12990,0.05,24681,15200,9481,Digital Wallet,4,,No,None
+LM26-0646,2026-03-19,Central,Nuwara Eliya,Mobile App,Corporate,Sports,Yoga Mat,2,4490,0.1,8082,4200,3882,Bank Transfer,5,4,No,None
+LM26-0647,2026-02-13,Central,Nuwara Eliya,Online,Small Business,Electronics,Wireless Earbuds,1,12990,0.05,12341,8528,3813,Credit Card,5,4,No,None
+LM26-0648,2026-05-18,North Western,Kurunegala,Mobile App,Consumer,Electronics,Bluetooth Speaker,4,9990,0.05,37962,25792,12170,Credit Card,4,3,Yes,New Year
+LM26-0649,2026-06-03,Central,Nuwara Eliya,Mobile App,Corporate,Sports,Dumbbell Set,2,15990,0.1,28782,19600,9182,Digital Wallet,3,4,No,App Exclusive
+LM26-0650,2026-04-18,Southern,Matara,Mobile App,Consumer,Home,Table Lamp,2,5990,0.05,11381,6300,5081,Debit Card,7,3,No,None
+LM26-0651,2026-04-11,Southern,Matara,Store,Consumer,Sports,Cricket Bat,1,12990,0.15,11042,7600,3442,Cash on Delivery,0,5,No,Weekend Deal
+LM26-0652,2026-06-26,Central,Nuwara Eliya,Mobile App,Consumer,Sports,Yoga Mat,1,4490,0,4490,2100,2390,Digital Wallet,4,4,No,None
+LM26-0653,2026-05-02,Southern,Hambantota,Mobile App,Small Business,Sports,Dumbbell Set,4,15990,0.05,60762,39200,21562,Bank Transfer,4,5,No,Weekend Deal
+LM26-0654,2026-02-20,North Central,Polonnaruwa,Store,Consumer,Home,Air Fryer,4,24990,0.2,79968,70800,9168,Bank Transfer,0,5,No,Weekend Deal
+LM26-0655,2026-01-23,North Central,Anuradhapura,Online,Consumer,Beauty,Skin Care Set,2,8990,0,17980,8800,9180,Cash on Delivery,5,3,No,None
+LM26-0656,2026-03-08,North Western,Puttalam,Mobile App,Consumer,Beauty,Perfume,4,11990,0.2,38368,27600,10768,Debit Card,9,3,No,New Year
+LM26-0657,2026-03-17,Uva,Badulla,Mobile App,Corporate,Fashion,Casual Shirt,3,4990,0.1,13473,6750,6723,Debit Card,9,3,No,None
+LM26-0658,2026-05-16,Sabaragamuwa,Ratnapura,Mobile App,Consumer,Beauty,Skin Care Set,3,8990,0,26970,13200,13770,Cash on Delivery,2,5,No,None
+LM26-0659,2026-01-17,Western,Kalutara,Mobile App,Small Business,Home,Table Lamp,2,5990,0,11980,6300,5680,Digital Wallet,1,5,No,None
+LM26-0660,2026-01-08,Uva,Badulla,Mobile App,Consumer,Home,Table Lamp,1,5990,0.2,4792,3150,1642,Digital Wallet,7,,No,New Year
+LM26-0661,2026-01-12,Central,Kandy,Store,Small Business,Sports,Dumbbell Set,1,15990,0.1,14391,9800,4591,Debit Card,0,4,Yes,Weekend Deal
+LM26-0662,2026-03-18,Southern,Galle,Store,Consumer,Sports,Yoga Mat,4,4490,0.05,17062,8400,8662,Bank Transfer,0,4,No,App Exclusive
+LM26-0663,2026-05-30,Central,Matale,Mobile App,Small Business,Home,Rice Cooker,3,13990,0.05,39872,28200,11672,Digital Wallet,5,4,No,New Year
+LM26-0664,2026-06-04,Central,Kandy,Online,Consumer,Beauty,Perfume,2,11990,0.1,21582,13800,7782,Bank Transfer,2,5,No,Weekend Deal
+LM26-0665,2026-05-08,North Central,Anuradhapura,Store,Small Business,Fashion,Backpack,3,7490,0,22470,11400,11070,Digital Wallet,0,4,No,None
+LM26-0666,2026-05-24,Southern,Matara,Online,Consumer,Fashion,Casual Shirt,2,4990,0.15,8483,4500,3983,Cash on Delivery,6,3,No,App Exclusive
+LM26-0667,2026-02-09,Western,Kalutara,Mobile App,Consumer,Electronics,Smart Watch,3,18990,0.2,45576,38064,7512,Bank Transfer,6,4,No,App Exclusive
+LM26-0668,2026-01-17,Southern,Matara,Online,Consumer,Sports,Dumbbell Set,4,15990,0.05,60762,39200,21562,Bank Transfer,4,4,No,None
+LM26-0669,2026-05-24,Southern,Matara,Store,Consumer,Electronics,Smart Watch,3,18990,0.1,51273,38064,13209,Digital Wallet,0,5,No,Weekend Deal
+LM26-0670,2026-04-13,Western,Kalutara,Store,Corporate,Fashion,Running Shoes,3,10990,0.25,24728,18300,6428,Debit Card,0,4,No,App Exclusive
+LM26-0671,2026-06-07,Western,Colombo,Mobile App,Consumer,Fashion,Casual Shirt,2,4990,0,9980,4500,5480,Credit Card,2,5,No,None
+LM26-0672,2026-03-21,Northern,Kilinochchi,Mobile App,Consumer,Sports,Cricket Bat,1,12990,0.15,11042,7600,3442,Bank Transfer,4,4,No,App Exclusive
+LM26-0673,2026-02-05,Central,Matale,Mobile App,Consumer,Electronics,Smart Watch,3,18990,0,56970,38064,18906,Digital Wallet,8,3,No,None
+LM26-0674,2026-03-04,Western,Colombo,Mobile App,Consumer,Home,Table Lamp,4,5990,0.05,22762,12600,10162,Credit Card,4,4,No,None
+LM26-0675,2026-01-16,Western,Negombo,Online,Corporate,Electronics,Smart Watch,1,18990,0.05,18041,12688,5353,Cash on Delivery,4,,No,None
+LM26-0676,2026-03-19,Central,Matale,Online,Small Business,Electronics,Smart Watch,4,18990,0.05,72162,50752,21410,Cash on Delivery,4,4,No,None
+LM26-0677,2026-05-03,North Western,Puttalam,Mobile App,Small Business,Electronics,Wireless Earbuds,1,12990,0.2,10392,8528,1864,Bank Transfer,3,5,No,Weekend Deal
+LM26-0678,2026-02-27,Central,Matale,Mobile App,Consumer,Electronics,Bluetooth Speaker,2,9990,0,19980,12896,7084,Cash on Delivery,8,3,No,None
+LM26-0679,2026-05-10,Uva,Monaragala,Store,Consumer,Beauty,Hair Dryer,4,7990,0.05,30362,18800,11562,Credit Card,0,5,No,New Year
+LM26-0680,2026-04-07,Sabaragamuwa,Ratnapura,Online,Consumer,Beauty,Perfume,3,11990,0.1,32373,20700,11673,Credit Card,9,3,No,New Year
+LM26-0681,2026-01-28,Northern,Jaffna,Store,Corporate,Sports,Cricket Bat,2,12990,0.1,23382,15200,8182,Credit Card,0,,No,None
+LM26-0682,2026-01-08,Southern,Matara,Store,Corporate,Fashion,Backpack,2,7490,0.25,11235,7600,3635,Debit Card,0,5,No,New Year
+LM26-0683,2026-06-13,Uva,Monaragala,Store,Consumer,Beauty,Skin Care Set,1,8990,0.1,8091,4400,3691,Bank Transfer,0,5,No,Weekend Deal
+LM26-0684,2026-04-24,Northern,Jaffna,Online,Consumer,Home,Table Lamp,3,5990,0,17970,9450,8520,Cash on Delivery,6,4,No,None
+LM26-0685,2026-01-14,Western,Colombo,Online,Consumer,Fashion,Backpack,1,7490,0.05,7116,3800,3316,Debit Card,2,4,No,None
+LM26-0686,2026-03-23,Southern,Matara,Mobile App,Consumer,Sports,Dumbbell Set,4,15990,0.05,60762,39200,21562,Bank Transfer,5,4,No,App Exclusive
+LM26-0687,2026-02-26,Eastern,Trincomalee,Mobile App,Consumer,Electronics,Bluetooth Speaker,3,9990,0.1,26973,19344,7629,Bank Transfer,9,3,No,Weekend Deal
+LM26-0688,2026-05-10,North Central,Polonnaruwa,Online,Consumer,Sports,Cricket Bat,1,12990,0,12990,7600,5390,Bank Transfer,6,3,No,None
+LM26-0689,2026-06-03,Central,Kandy,Mobile App,Consumer,Beauty,Hair Dryer,2,7990,0.1,14382,9400,4982,Cash on Delivery,3,4,No,New Year
+LM26-0690,2026-01-03,Southern,Hambantota,Mobile App,Consumer,Home,Rice Cooker,4,13990,0.05,53162,37600,15562,Bank Transfer,8,4,No,Weekend Deal
+LM26-0691,2026-06-28,Northern,Jaffna,Online,Consumer,Fashion,Casual Shirt,1,4990,0.15,4242,2250,1992,Digital Wallet,6,4,No,New Year
+LM26-0692,2026-06-04,Southern,Matara,Store,Corporate,Electronics,Wireless Earbuds,2,12990,0.05,24681,17056,7625,Credit Card,0,4,Yes,None
+LM26-0693,2026-06-12,Western,Kalutara,Mobile App,Small Business,Fashion,Backpack,1,7490,0.05,7116,3800,3316,Cash on Delivery,7,3,No,New Year
+LM26-0694,2026-01-29,Central,Kandy,Online,Small Business,Fashion,Running Shoes,4,10990,0.2,35168,24400,10768,Cash on Delivery,3,5,No,App Exclusive
+LM26-0695,2026-05-20,North Western,Kurunegala,Mobile App,Corporate,Sports,Yoga Mat,4,4490,0.1,16164,8400,7764,Cash on Delivery,7,4,No,None
+LM26-0696,2026-01-22,Western,Colombo,Store,Small Business,Electronics,Bluetooth Speaker,2,9990,0.05,18981,12896,6085,Credit Card,0,5,No,New Year
+LM26-0697,2026-05-31,Western,Colombo,Online,Consumer,Electronics,Smart Watch,1,18990,0.2,15192,12688,2504,Digital Wallet,2,4,No,Weekend Deal
+LM26-0698,2026-02-02,North Central,Polonnaruwa,Online,Corporate,Electronics,Wireless Earbuds,1,12990,0.25,9743,8528,1215,Digital Wallet,3,5,No,New Year
+LM26-0699,2026-06-23,Uva,Monaragala,Store,Corporate,Electronics,Wireless Earbuds,1,12990,0.25,9743,8528,1215,Debit Card,0,,No,App Exclusive
+LM26-0700,2026-01-17,Southern,Matara,Store,Small Business,Sports,Yoga Mat,3,4490,0.05,12797,6300,6497,Debit Card,0,5,No,App Exclusive
+LM26-0701,2026-06-21,Southern,Matara,Mobile App,Small Business,Home,Table Lamp,3,5990,0.1,16173,9450,6723,Cash on Delivery,4,4,No,App Exclusive
+LM26-0702,2026-01-14,Central,Kandy,Mobile App,Consumer,Home,Table Lamp,4,5990,0,23960,12600,11360,Bank Transfer,6,4,No,None
+LM26-0703,2026-06-17,Central,Kandy,Store,Consumer,Beauty,Hair Dryer,2,7990,0.1,14382,9400,4982,Credit Card,0,5,No,Weekend Deal
+LM26-0704,2026-03-21,Central,Matale,Mobile App,Consumer,Sports,Yoga Mat,1,4490,0.2,3592,2100,1492,Digital Wallet,6,3,No,App Exclusive
+LM26-0705,2026-01-06,Sabaragamuwa,Ratnapura,Online,Consumer,Home,Air Fryer,4,24990,0.1,89964,70800,19164,Credit Card,9,3,Yes,New Year
+LM26-0706,2026-02-09,Central,Nuwara Eliya,Store,Consumer,Sports,Yoga Mat,4,4490,0.05,17062,8400,8662,Cash on Delivery,0,5,No,New Year
+LM26-0707,2026-04-12,North Central,Anuradhapura,Mobile App,Small Business,Fashion,Casual Shirt,4,4990,0,19960,9000,10960,Cash on Delivery,4,3,Yes,None
+LM26-0708,2026-01-15,Central,Kandy,Store,Corporate,Sports,Cricket Bat,2,12990,0.25,19485,15200,4285,Bank Transfer,0,4,No,Weekend Deal
+LM26-0709,2026-01-05,Central,Nuwara Eliya,Online,Small Business,Home,Air Fryer,4,24990,0.05,94962,70800,24162,Debit Card,5,4,No,None
+LM26-0710,2026-02-08,Western,Kalutara,Mobile App,Consumer,Fashion,Casual Shirt,1,4990,0,4990,2250,2740,Credit Card,8,3,No,None
+LM26-0711,2026-03-04,Central,Nuwara Eliya,Mobile App,Small Business,Beauty,Skin Care Set,1,8990,0.15,7642,4400,3242,Debit Card,3,5,No,New Year
+LM26-0712,2026-05-06,Central,Nuwara Eliya,Online,Consumer,Sports,Yoga Mat,4,4490,0,17960,8400,9560,Credit Card,7,4,No,None
+LM26-0713,2026-05-11,Central,Matale,Online,Consumer,Electronics,Wireless Earbuds,3,12990,0.1,35073,25584,9489,Cash on Delivery,3,5,No,Weekend Deal
+LM26-0714,2026-04-11,Southern,Hambantota,Mobile App,Consumer,Sports,Yoga Mat,2,4490,0.1,8082,4200,3882,Debit Card,6,3,No,Weekend Deal
+LM26-0715,2026-06-26,North Central,Polonnaruwa,Online,Consumer,Electronics,Smart Watch,1,18990,0.2,15192,12688,2504,Cash on Delivery,3,4,Yes,New Year
+LM26-0716,2026-04-27,Uva,Badulla,Mobile App,Consumer,Home,Air Fryer,4,24990,0.05,94962,70800,24162,Cash on Delivery,2,5,No,New Year
+LM26-0717,2026-01-01,Sabaragamuwa,Ratnapura,Store,Consumer,Sports,Cricket Bat,1,12990,0.05,12341,7600,4741,Credit Card,0,5,No,New Year
+LM26-0718,2026-02-25,Central,Nuwara Eliya,Store,Consumer,Sports,Cricket Bat,3,12990,0.15,33125,22800,10325,Digital Wallet,0,3,Yes,New Year
+LM26-0719,2026-05-29,Southern,Matara,Mobile App,Corporate,Fashion,Running Shoes,1,10990,0.25,8243,6100,2143,Digital Wallet,3,5,No,New Year
+LM26-0720,2026-06-01,Northern,Kilinochchi,Online,Consumer,Sports,Yoga Mat,3,4490,0.05,12797,6300,6497,Debit Card,9,2,No,None
+LM26-0113,2026-06-05,Sabaragamuwa,Kegalle,Mobile App,Consumer,Fashion,Casual Shirt,2,4990,0.05,9481,4500,4981,Cash on Delivery,3,5,No,App Exclusive
