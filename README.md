@@ -96,7 +96,7 @@ CIT308_LankaMart/
 ## Clone Repository
 
 
-git clone https://github.com/your-username/CIT308-LankaMart-Dashboard.git
+git clone https://github.com/suhair25/LankaMart-Dashboard
 
 
 ---
